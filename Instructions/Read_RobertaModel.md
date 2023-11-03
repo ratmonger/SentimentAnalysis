@@ -1,4 +1,4 @@
-# IMDb Movie Review Sentiment Analysis
+# IMDb Movie Review Sentiment Analysis with Roberta Model
 
 This Python script demonstrates how to use the Hugging Face Transformers library to perform sentiment analysis on movie reviews using a pre-trained Twitter RoBERTa-based model. It provides a function to analyze the sentiment of a given text and returns the sentiment label and corresponding scores.
 

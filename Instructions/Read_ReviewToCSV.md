@@ -1,4 +1,4 @@
-# IMDb Movie Review Scraper
+# IMDb Movie Review Scraper to CSV
 
 This Python script is designed to scrape movie reviews from IMDb and create a DataFrame containing the reviews and star ratings. It uses the Selenium library to automate a web browser (Chrome or Firefox) and BeautifulSoup for parsing HTML content.
 
