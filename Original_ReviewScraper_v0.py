@@ -6,7 +6,7 @@ import pandas as pd
 url = "https://www.imdb.com/title/tt0111161/reviews"
 
 # Global constant for the maximum number of reviews to retrieve
-MAX_REVIEWS = 1000  # Set to the desired maximum number
+MAX_REVIEWS = 10  # Set to the desired maximum number
 
 # Create empty lists to store reviews and star ratings
 reviews = []
