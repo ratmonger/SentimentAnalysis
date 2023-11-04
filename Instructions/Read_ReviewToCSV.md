@@ -14,7 +14,7 @@ You can install these libraries using `pip`. Example:
 
 ```bash
 pip install selenium beautifulsoup4 pandas tqdm
-
+```
 
 ## Instructions
 
