@@ -16,7 +16,7 @@ url = "https://www.imdb.com/title/tt0111161/reviews"
 
 
 # Global constant for the maximum number of reviews to retrieve
-MAX_REVIEWS = 5  # Set to the desired maximum number
+MAX_REVIEWS = 2000  # Set to the desired maximum number
 
 # Initialize a WebDriver (make sure you have ChromeDriver or GeckoDriver installed)
 driver = webdriver.Chrome()  # You can also use GeckoDriver for Firefox
@@ -74,14 +74,14 @@ print(reviews_df)
 
 # Your code to scrape reviews and create the reviews_df DataFrame
 #
-# # Check if there are reviews in the DataFrame and no errors
-# if not reviews_df.empty:
-#     # Specify the file path where you want to save the CSV file
-#     csv_file_path = "movie_reviews.csv"
-#
-#     # Save the DataFrame to a CSV file
-#     reviews_df.to_csv(csv_file_path, index=False)
-#
-#     print(f"CSV file saved to {csv_file_path}")
-# else:
-#     print("No reviews to save or an error occurred during scraping.")
+# Check if there are reviews in the DataFrame and no errors
+if not reviews_df.empty:
+    # Specify the file path where you want to save the CSV file
+    csv_file_path = "ShawShank_CreatedFiles/movie_reviews_2000.csv"
+
+    # Save the DataFrame to a CSV file
+    reviews_df.to_csv(csv_file_path, index=False)
+
+    print(f"CSV file saved to {csv_file_path}")
+else:
+    print("No reviews to save or an error occurred during scraping.")

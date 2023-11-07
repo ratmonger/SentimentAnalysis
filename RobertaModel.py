@@ -79,7 +79,7 @@ def analyze_sentiment(text):
     return sentiment_label, formatted_scores
 
 # Positive Review
-print("Positive Review: " + str(analyze_sentiment(positiveRating)))
+#print("Positive Review: " + str(analyze_sentiment(positiveRating)))
 
 # Negative Review
-print("Negative Review: " + str(analyze_sentiment(negativeRating)))
+#print("Negative Review: " + str(analyze_sentiment(negativeRating)))
