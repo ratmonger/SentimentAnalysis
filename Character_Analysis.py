@@ -5,7 +5,7 @@ import RobertaModel_GPU as RMGPU
 MAX_REVIEWS = 500
 file_path = 'ShawShank_CreatedFiles/movie_reviews_2000.csv'
 
-# Top 5 Characters in the movie Shawshank
+# Top 5 Characters in your movie
 shawshank_characters = ["Andy Dufresne", "Ellis Red Redding", "Warden Samuel Norton", "Brooks Hatlen", "Tommy Williams"]
 
 def split_flatten_names(character_list):
