@@ -149,7 +149,7 @@ def map_sentiment_to_rating(average_sentiment_score, rating_scale=(1, 10)):
 # print("Movie Rating:", movie_rating)
 
 
-MAX_REVIEWS = 1500  # Set the maximum number of reviews to process
+MAX_REVIEWS = 100  # Set the maximum number of reviews to process
 results = analyze_reviews(df, MAX_REVIEWS)
 
 # Compute the average sentiment scores
