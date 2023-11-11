@@ -4,6 +4,10 @@ import time
 import pandas as pd
 from tqdm import tqdm
 
+'''
+    This code will grab the x amount of reviews from the IMDB review link you give it
+    It will than put those reviews with their ratings into a csv file 
+'''
 # IMDb movie review URL
 url = "https://www.imdb.com/title/tt0111161/reviews/"
 
