@@ -75,13 +75,13 @@ print(reviews_df)
 # Your code to scrape reviews and create the reviews_df DataFrame
 #
 # Check if there are reviews in the DataFrame and no errors
-if not reviews_df.empty:
-    # Specify the file path where you want to save the CSV file
-    csv_file_path = "ShawShank_CreatedFiles/movie_reviews_2000.csv"
-
-    # Save the DataFrame to a CSV file
-    reviews_df.to_csv(csv_file_path, index=False)
-
-    print(f"CSV file saved to {csv_file_path}")
-else:
-    print("No reviews to save or an error occurred during scraping.")
+# if not reviews_df.empty:
+#     # Specify the file path where you want to save the CSV file
+#     csv_file_path = "ShawShank_CreatedFiles/movie_reviews_2000.csv"
+#
+#     # Save the DataFrame to a CSV file
+#     reviews_df.to_csv(csv_file_path, index=False)
+#
+#     print(f"CSV file saved to {csv_file_path}")
+# else:
+#     print("No reviews to save or an error occurred during scraping.")
