@@ -1,6 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+'''
+    This code will convert the csv files of reviews into a graph
+    with y being the number of reviews and x being positive and negative 
+'''
+
 # Read the CSV file into a DataFrame
 file_path = 'modified_movie_reviews_700_test.csv'  # Replace with the actual file path
 df = pd.read_csv(file_path)
