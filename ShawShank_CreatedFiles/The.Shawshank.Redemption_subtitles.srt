@@ -1,0 +1,7516 @@
+1
+00:02:04,542 --> 00:02:06,502
+<i>Mr. Dufresne, describe...</i>
+
+2
+00:02:06,711 --> 00:02:11,048
+{\an8}...the confrontation you had with
+your wife the night she was murdered.
+
+3
+00:02:15,720 --> 00:02:17,388
+It was very bitter.
+
+4
+00:02:17,722 --> 00:02:22,059
+She said she was glad I knew,
+that she hated all the sneaking around.
+
+5
+00:02:23,561 --> 00:02:27,064
+And she said that she wanted
+a divorce in Reno.
+
+6
+00:02:27,315 --> 00:02:30,985
+{\an8}-What was your response?
+-I told her I would not grant one.
+
+7
+00:02:31,193 --> 00:02:34,363
+{\an8}"I'll see you in hell
+before I see you in Reno."
+
+8
+00:02:34,572 --> 00:02:37,908
+Those were your words,
+according to your neighbors.
+
+9
+00:02:38,951 --> 00:02:40,578
+If they say so.
+
+10
+00:02:41,078 --> 00:02:43,622
+{\an8}I really don't remember. I was upset.
+
+11
+00:02:43,914 --> 00:02:46,334
+{\an8}What happened after you argued
+with your wife?
+
+12
+00:02:47,501 --> 00:02:49,253
+{\an8}She packed a bag.
+
+13
+00:02:50,421 --> 00:02:53,591
+She packed a bag to go
+and stay with Mr. Quentin.
+
+14
+00:02:54,258 --> 00:02:58,346
+{\an8}<i>Glenn Quentin, golf pro
+at the Snowden Hills Country Club...</i>
+
+15
+00:02:58,554 --> 00:03:01,682
+{\an8}<i>...whom you had discovered
+was your wife's lover.</i>
+
+16
+00:03:03,976 --> 00:03:05,186
+Did you follow her?
+
+17
+00:03:06,520 --> 00:03:08,606
+I went to a few bars first.
+
+18
+00:03:08,814 --> 00:03:13,194
+{\an8}Later, I drove to his house
+to confront them. They weren't home.
+
+19
+00:03:13,778 --> 00:03:15,279
+{\an8}I parked in the turnout...
+
+20
+00:03:15,988 --> 00:03:16,989
+<i>...and waited.</i>
+
+21
+00:03:17,198 --> 00:03:18,866
+<i>With what intention?</i>
+
+22
+00:03:19,450 --> 00:03:20,910
+<i>I'm not sure.</i>
+
+23
+00:03:22,036 --> 00:03:23,496
+{\an8}<i>I was confused...</i>
+
+24
+00:03:23,704 --> 00:03:24,955
+{\an8}<i>...drunk.</i>
+
+25
+00:03:26,290 --> 00:03:27,583
+{\an8}<i>I think...</i>
+
+26
+00:03:27,792 --> 00:03:29,960
+<i>...mostly I wanted to scare them.</i>
+
+27
+00:03:30,127 --> 00:03:33,506
+When they arrived, you went up
+to the house and murdered them.
+
+28
+00:03:33,672 --> 00:03:35,800
+No, I was sobering up.
+
+29
+00:03:36,008 --> 00:03:39,678
+{\an8}I got back in the car
+and I drove home to sleep it off.
+
+30
+00:03:39,887 --> 00:03:42,848
+{\an8}Along the way, I threw my gun
+into the Royal River.
+
+31
+00:03:43,057 --> 00:03:45,142
+{\an8}I've been very clear on this point.
+
+32
+00:03:45,309 --> 00:03:49,355
+I get hazy where the cleaning woman
+shows up the following morning...
+
+33
+00:03:49,563 --> 00:03:52,149
+{\an8}...and finds your wife in bed
+with her lover...
+
+34
+00:03:52,358 --> 00:03:54,485
+{\an8}...riddled with .38-caliber bullets.
+
+35
+00:03:55,820 --> 00:04:00,032
+Does that strike you as a
+fantastic coincidence, or is it just me?
+
+36
+00:04:00,950 --> 00:04:01,951
+Yes, it does.
+
+37
+00:04:02,159 --> 00:04:05,329
+{\an8}Yet you still maintain
+you threw your gun into the river...
+
+38
+00:04:05,496 --> 00:04:07,581
+{\an8}...before the murders took place.
+
+39
+00:04:07,790 --> 00:04:10,000
+{\an8}That's very convenient.
+
+40
+00:04:10,209 --> 00:04:11,877
+It's the truth.
+
+41
+00:04:12,253 --> 00:04:16,841
+The police dragged that river for
+three days, and nary a gun was found...
+
+42
+00:04:17,007 --> 00:04:21,137
+{\an8}...so no comparison could be made
+between your gun and the bullets...
+
+43
+00:04:21,345 --> 00:04:24,765
+{\an8}...taken from the bloodstained corpses
+of the victims.
+
+44
+00:04:25,433 --> 00:04:27,852
+And that also...
+
+45
+00:04:28,310 --> 00:04:31,730
+...is very convenient.
+Isn't it, Mr. Dufresne?
+
+46
+00:04:33,065 --> 00:04:35,151
+Since I am innocent of this crime...
+
+47
+00:04:35,359 --> 00:04:39,989
+...I find it decidedly inconvenient
+that the gun was never found.
+
+48
+00:04:57,882 --> 00:05:01,218
+<i>Ladies and gentlemen,
+you've heard all the evidence.</i>
+
+49
+00:05:01,427 --> 00:05:05,264
+<i>We have the accused at the scene
+of the crime. We have footprints.</i>
+
+50
+00:05:05,473 --> 00:05:08,350
+<i>Bullets on the ground
+bearing his fingerprints.</i>
+
+51
+00:05:08,559 --> 00:05:11,520
+{\an8}<i>A broken bourbon bottle,
+likewise with fingerprints.</i>
+
+52
+00:05:11,729 --> 00:05:13,272
+{\an8}<i>And most of all...</i>
+
+53
+00:05:13,481 --> 00:05:16,567
+{\an8}<i>...we have a beautiful young woman
+and her lover...</i>
+
+54
+00:05:16,734 --> 00:05:18,777
+<i>...lying dead in each other's arms.</i>
+
+55
+00:05:19,945 --> 00:05:22,573
+{\an8}<i>They had sinned.</i>
+
+56
+00:05:23,782 --> 00:05:26,327
+{\an8}<i>But was their crime so great...</i>
+
+57
+00:05:26,577 --> 00:05:28,787
+{\an8}<i>...as to merit a death sentence?</i>
+
+58
+00:05:28,996 --> 00:05:31,290
+While you think about that...
+
+59
+00:05:32,750 --> 00:05:34,543
+...think about this:
+
+60
+00:05:35,419 --> 00:05:39,131
+{\an8}A revolver holds six bullets, not eight.
+
+61
+00:05:39,340 --> 00:05:43,052
+{\an8}I submit that this was not
+a hot-blooded crime of passion.
+
+62
+00:05:43,260 --> 00:05:46,055
+{\an8}That at least could be understood,
+if not condoned.
+
+63
+00:05:46,263 --> 00:05:47,264
+No.
+
+64
+00:05:47,473 --> 00:05:49,433
+This was revenge...
+
+65
+00:05:49,600 --> 00:05:53,270
+...of a much more brutal,
+cold-blooded nature. Consider this:
+
+66
+00:05:53,437 --> 00:05:55,856
+<i>Four bullets per victim.</i>
+
+67
+00:05:56,607 --> 00:05:58,317
+<i>Not six shots fired, but eight.</i>
+
+68
+00:05:58,817 --> 00:06:02,446
+<i>That means that he fired
+the gun empty...</i>
+
+69
+00:06:02,655 --> 00:06:05,449
+{\an8}<i>...and then stopped to reload...</i>
+
+70
+00:06:05,616 --> 00:06:08,285
+{\an8}<i>...so that he could shoot
+each of them again.</i>
+
+71
+00:06:08,494 --> 00:06:11,080
+<i>An extra bullet per lover...</i>
+
+72
+00:06:11,830 --> 00:06:13,624
+<i>...right in the head.</i>
+
+73
+00:06:17,127 --> 00:06:21,924
+You strike me as a particularly icy
+and remorseless man, Mr. Dufresne.
+
+74
+00:06:22,299 --> 00:06:24,468
+It chills my blood just to look at you.
+
+75
+00:06:26,387 --> 00:06:29,139
+{\an8}By the power vested in me
+by the state of Maine...
+
+76
+00:06:29,348 --> 00:06:33,644
+{\an8}...I hereby order you to serve
+two life sentences back-to-back...
+
+77
+00:06:33,978 --> 00:06:36,522
+...one for each of your victims. So be it!
+
+78
+00:07:01,672 --> 00:07:02,840
+Sit.
+
+79
+00:07:07,344 --> 00:07:10,180
+We see you've served
+20 years of a life sentence?
+
+80
+00:07:11,140 --> 00:07:14,351
+-Yes, sir.
+-You feel you've been rehabilitated?
+
+81
+00:07:14,727 --> 00:07:17,354
+Oh, yes, sir. Absolutely, sir.
+
+82
+00:07:18,480 --> 00:07:20,482
+I mean, I learned my lesson.
+
+83
+00:07:21,525 --> 00:07:24,987
+I can honestly say
+that I'm a changed man.
+
+84
+00:07:28,198 --> 00:07:30,576
+I'm no longer a danger to society.
+
+85
+00:07:30,784 --> 00:07:32,745
+That's God's honest truth.
+
+86
+00:08:09,073 --> 00:08:11,867
+Hey, Red. How'd it go?
+
+87
+00:08:12,076 --> 00:08:14,244
+Same old shit, different day.
+
+88
+00:08:14,495 --> 00:08:16,372
+Yeah, I know how you feel.
+
+89
+00:08:16,580 --> 00:08:18,582
+I'm up for rejection next week.
+
+90
+00:08:19,333 --> 00:08:21,877
+Yeah, I got rejected last week.
+
+91
+00:08:22,086 --> 00:08:23,379
+It happens.
+
+92
+00:08:23,587 --> 00:08:25,005
+Hey, Red, bump me a deck.
+
+93
+00:08:25,214 --> 00:08:28,509
+Get out of my face, man!
+You're into me for five packs already.
+
+94
+00:08:28,717 --> 00:08:29,718
+-Four!
+-Five!
+
+95
+00:08:30,844 --> 00:08:34,264
+<i>There must be a con like me
+in every prison in America.</i>
+
+96
+00:08:34,473 --> 00:08:36,266
+<i>I'm the guy who can get it for you.</i>
+
+97
+00:08:36,475 --> 00:08:39,603
+<i>Cigarettes, a bag of reefer,
+if that's your thing...</i>
+
+98
+00:08:39,770 --> 00:08:43,232
+<i>...a bottle of brandy to celebrate
+your kid's high school graduation.</i>
+
+99
+00:08:43,440 --> 00:08:45,567
+<i>Damn near anything within reason.</i>
+
+100
+00:08:45,776 --> 00:08:49,488
+<i>Yes, sir.
+I'm a regular Sears and Roebuck.</i>
+
+101
+00:08:52,449 --> 00:08:55,369
+<i>So when Andy Dufresne
+came to me in 1949...</i>
+
+102
+00:08:55,577 --> 00:08:59,123
+<i>...and asked me to smuggle
+Rita Hayworth into the prison for him...</i>
+
+103
+00:08:59,331 --> 00:09:01,625
+<i>...I told him, "No problem."</i>
+
+104
+00:09:21,145 --> 00:09:25,315
+<i>Officers
+to main gate. Officers to main gate.</i>
+
+105
+00:09:25,983 --> 00:09:28,527
+<i>Secure main gate.</i>
+
+106
+00:09:43,459 --> 00:09:45,669
+<i>Andy came to Shawshank Prison...</i>
+
+107
+00:09:45,878 --> 00:09:49,757
+<i>...in early 1947 for murdering his wife
+and the fella she was banging.</i>
+
+108
+00:09:50,090 --> 00:09:54,178
+<i>On the outside, he'd been vice president
+of a large Portland bank.</i>
+
+109
+00:09:54,595 --> 00:09:56,388
+<i>Good work for a man so young.</i>
+
+110
+00:10:01,727 --> 00:10:03,270
+Hey, Red.
+
+111
+00:10:39,640 --> 00:10:41,391
+You speak English, butt-steak?
+
+112
+00:10:41,600 --> 00:10:43,477
+You follow this officer.
+
+113
+00:10:56,240 --> 00:11:00,494
+I never seen such a sorry-looking
+heap of maggot shit in all my life.
+
+114
+00:11:00,744 --> 00:11:03,330
+Hey, fish! Come over here!
+
+115
+00:11:26,603 --> 00:11:27,980
+Taking bets today, Red?
+
+116
+00:11:28,355 --> 00:11:30,065
+Smokes or coin? Bettor's choice.
+
+117
+00:11:30,274 --> 00:11:31,942
+Smokes. Put me down for two.
+
+118
+00:11:32,484 --> 00:11:34,069
+All right, who's your horse?
+
+119
+00:11:34,278 --> 00:11:36,029
+That little sack of shit.
+
+120
+00:11:36,822 --> 00:11:40,617
+-Eighth. Eighth from the front. He'll be first.
+-Oh, bullshit! I'll take that action.
+
+121
+00:11:40,784 --> 00:11:43,328
+-Yeah, me too.
+-You're out some smokes, son.
+
+122
+00:11:43,495 --> 00:11:45,289
+If you're so smart, you call it.
+
+123
+00:11:45,497 --> 00:11:48,584
+I'll take the chubby fat-ass there.
+
+124
+00:11:48,792 --> 00:11:51,378
+The fifth one.
+Put me down for a quarter deck.
+
+125
+00:11:53,130 --> 00:11:54,339
+Fresh Fish!
+
+126
+00:11:54,590 --> 00:11:56,300
+Fresh fish today!
+
+127
+00:11:57,050 --> 00:11:58,510
+We're reeling them in!
+
+128
+00:11:59,177 --> 00:12:02,848
+<i>I admit I didn't think much of Andy
+first time I laid eyes on him.</i>
+
+129
+00:12:03,390 --> 00:12:06,310
+<i>Looked like a stiff breeze
+would blow him over.</i>
+
+130
+00:12:06,643 --> 00:12:08,770
+<i>That was my first impression of the man.</i>
+
+131
+00:12:08,979 --> 00:12:10,397
+What do you say?
+
+132
+00:12:10,606 --> 00:12:13,901
+That tall drink of water
+with the silver spoon up his ass.
+
+133
+00:12:14,109 --> 00:12:16,236
+That guy? Never happen.
+
+134
+00:12:16,445 --> 00:12:18,697
+-Ten cigarettes.
+-That's a rich bet.
+
+135
+00:12:18,906 --> 00:12:20,991
+Who's going to prove me wrong?
+
+136
+00:12:21,158 --> 00:12:22,993
+Heywood? Jigger?
+
+137
+00:12:23,285 --> 00:12:24,578
+Skeets?
+
+138
+00:12:24,786 --> 00:12:26,121
+Floyd!
+
+139
+00:12:27,039 --> 00:12:29,124
+Four brave souls.
+
+140
+00:12:29,333 --> 00:12:32,085
+<i>Return to your
+cellblocks for evening count.</i>
+
+141
+00:12:32,294 --> 00:12:35,589
+<i>All prisoners, return to your cellblocks.</i>
+
+142
+00:12:55,984 --> 00:12:58,612
+Turn to the right! Eyes front.
+
+143
+00:13:11,708 --> 00:13:14,294
+This is Mr. Hadley.
+He's captain of the guards.
+
+144
+00:13:14,503 --> 00:13:16,588
+I'm Mr. Norton, the warden.
+
+145
+00:13:16,797 --> 00:13:19,007
+You are convicted felons.
+
+146
+00:13:19,299 --> 00:13:21,301
+That's why they've sent you to me.
+
+147
+00:13:21,885 --> 00:13:23,261
+Rule number one:
+
+148
+00:13:23,470 --> 00:13:24,972
+No blasphemy.
+
+149
+00:13:25,472 --> 00:13:28,892
+I'll not have the Lord's name
+taken in vain in my prison.
+
+150
+00:13:29,101 --> 00:13:30,310
+The other rules...
+
+151
+00:13:30,519 --> 00:13:33,814
+...you'll figure out as you go along.
+Any questions?
+
+152
+00:13:34,189 --> 00:13:35,232
+When do we eat?
+
+153
+00:13:43,907 --> 00:13:45,951
+You eat when we say you eat.
+
+154
+00:13:46,284 --> 00:13:49,413
+You shit when we say you shit,
+and piss when we say you piss.
+
+155
+00:13:49,621 --> 00:13:52,457
+You got that,
+you maggot-dick motherfucker?
+
+156
+00:13:54,334 --> 00:13:55,711
+On your feet.
+
+157
+00:13:55,919 --> 00:13:57,671
+I believe in two things:
+
+158
+00:13:57,879 --> 00:14:00,340
+Discipline and the Bible.
+
+159
+00:14:00,841 --> 00:14:02,926
+Here, you'll receive both.
+
+160
+00:14:03,677 --> 00:14:05,846
+Put your trust in the Lord.
+
+161
+00:14:06,430 --> 00:14:08,682
+Your ass belongs to me.
+
+162
+00:14:10,517 --> 00:14:12,436
+Welcome to Shawshank.
+
+163
+00:14:17,607 --> 00:14:18,942
+Unhook them.
+
+164
+00:14:24,364 --> 00:14:25,782
+Turn around.
+
+165
+00:14:32,622 --> 00:14:34,041
+That's enough.
+
+166
+00:14:34,958 --> 00:14:36,960
+Move to the end of the cage.
+
+167
+00:14:37,961 --> 00:14:40,464
+Turn around. Delouse him.
+
+168
+00:14:42,632 --> 00:14:43,884
+Turn around.
+
+169
+00:14:46,720 --> 00:14:49,431
+Move out of the cage.
+Pick up your clothes and Bible.
+
+170
+00:14:49,639 --> 00:14:50,974
+Next man up!
+
+171
+00:14:53,268 --> 00:14:55,979
+To the right. Right. Right. Right.
+
+172
+00:14:56,521 --> 00:14:57,773
+Left. Left.
+
+173
+00:14:58,148 --> 00:15:01,985
+<i>The first night's the toughest.
+No doubt about it.</i>
+
+174
+00:15:02,402 --> 00:15:05,530
+<i>They march you in
+naked as the day you were born...</i>
+
+175
+00:15:05,739 --> 00:15:09,534
+<i>...skin burning and half-blind
+from that delousing shit.</i>
+
+176
+00:15:10,202 --> 00:15:12,621
+<i>And when they put you in that cell...</i>
+
+177
+00:15:12,829 --> 00:15:15,165
+<i>...and those bars slam home...</i>
+
+178
+00:15:15,624 --> 00:15:17,834
+<i>...that's when you know it's for real.</i>
+
+179
+00:15:18,460 --> 00:15:21,421
+<i>Old life blown away
+in the blink of an eye.</i>
+
+180
+00:15:21,922 --> 00:15:26,009
+<i>Nothing left but all the time
+in the world to think about it.</i>
+
+181
+00:15:27,094 --> 00:15:30,514
+<i>Most new fish come close to madness
+the first night.</i>
+
+182
+00:15:30,847 --> 00:15:33,767
+<i>Somebody always breaks down crying.</i>
+
+183
+00:15:34,267 --> 00:15:35,936
+<i>Happens every time.</i>
+
+184
+00:15:36,853 --> 00:15:38,647
+<i>The only question is...</i>
+
+185
+00:15:38,855 --> 00:15:40,607
+<i>...who's it going to be?</i>
+
+186
+00:15:42,025 --> 00:15:44,945
+<i>It's as good a thing
+to bet on as any, I guess.</i>
+
+187
+00:15:46,029 --> 00:15:48,698
+<i>I had my money on Andy Dufresne.</i>
+
+188
+00:15:57,707 --> 00:15:59,376
+Lights out!
+
+189
+00:16:19,896 --> 00:16:22,232
+<i>I remember my first night.</i>
+
+190
+00:16:23,066 --> 00:16:25,986
+<i>Seems like a long time ago.</i>
+
+191
+00:16:29,239 --> 00:16:30,824
+Hey, fish.
+
+192
+00:16:31,825 --> 00:16:34,494
+Fish, fish, fish, fish, fishy.
+
+193
+00:16:35,245 --> 00:16:36,997
+What are you, scared of the dark?
+
+194
+00:16:39,332 --> 00:16:42,043
+Bet you wish your daddy
+never dicked your mama!
+
+195
+00:16:42,252 --> 00:16:46,631
+Piggy! Pork! I want me a pork chop.
+Oh, yes!
+
+196
+00:16:50,510 --> 00:16:52,596
+Poke your ass out, give me a first look!
+
+197
+00:16:52,762 --> 00:16:53,847
+Shh! Keep it down.
+
+198
+00:16:54,014 --> 00:16:57,267
+<i>The boys always go fishing
+with first-timers.</i>
+
+199
+00:16:57,601 --> 00:17:00,520
+<i>And they don't quit
+till they reel someone in.</i>
+
+200
+00:17:01,938 --> 00:17:03,523
+Hey, Fat Ass.
+
+201
+00:17:05,025 --> 00:17:06,359
+Fat Ass!
+
+202
+00:17:07,527 --> 00:17:09,279
+Talk to me, boy.
+
+203
+00:17:10,280 --> 00:17:12,657
+I know you're there.
+I can hear you breathing.
+
+204
+00:17:12,866 --> 00:17:15,827
+Don't you listen to these nitwits,
+you hear me?
+
+205
+00:17:16,036 --> 00:17:17,954
+This place ain't so bad.
+
+206
+00:17:18,371 --> 00:17:19,623
+Tell you what...
+
+207
+00:17:20,874 --> 00:17:23,960
+...I'll introduce you around,
+make you feel right at home.
+
+208
+00:17:24,544 --> 00:17:27,547
+I know a couple of
+big old bull queers that'd just...
+
+209
+00:17:27,797 --> 00:17:29,716
+...love to make your acquaintance.
+
+210
+00:17:29,925 --> 00:17:33,428
+Especially that big, white,
+mushy butt of yours.
+
+211
+00:17:33,637 --> 00:17:34,721
+God!
+
+212
+00:17:35,388 --> 00:17:36,806
+I don't belong here!
+
+213
+00:17:36,973 --> 00:17:39,809
+-We have a winner!
+-I want to go home!
+
+214
+00:17:40,101 --> 00:17:42,771
+And it's Fat Ass by a nose!
+
+215
+00:17:45,565 --> 00:17:49,277
+<i>Fresh fish!
+Fresh fish! Fresh fish!</i>
+
+216
+00:17:49,569 --> 00:17:51,655
+I don't belong here.
+
+217
+00:17:53,406 --> 00:17:55,242
+I want to go home!
+
+218
+00:17:56,201 --> 00:17:57,452
+I want my mother!
+
+219
+00:17:57,702 --> 00:17:59,788
+I had your mother!
+She wasn't that great!
+
+220
+00:18:04,251 --> 00:18:06,253
+What the Christ is this horseshit?
+
+221
+00:18:06,461 --> 00:18:08,546
+He blasphemed.
+I'll tell the warden.
+
+222
+00:18:08,755 --> 00:18:12,175
+-You'll tell him with my baton up your ass!
+-You gotta let me out!
+
+223
+00:18:12,384 --> 00:18:15,804
+What is your malfunction,
+you fat barrel of monkey spunk?
+
+224
+00:18:16,012 --> 00:18:19,015
+Please! I ain't supposed to be here.
+
+225
+00:18:19,516 --> 00:18:20,558
+Not me!
+
+226
+00:18:20,767 --> 00:18:23,103
+I won't count to three. Not even to one.
+
+227
+00:18:23,311 --> 00:18:25,355
+You will shut up,
+or I'll sing you a lullaby!
+
+228
+00:18:25,855 --> 00:18:28,566
+-Shut up, man. Shut up!
+-There's been a mistake.
+
+229
+00:18:29,317 --> 00:18:31,987
+You don't understand.
+I'm not supposed to be here.
+
+230
+00:18:32,195 --> 00:18:33,488
+Open that cell.
+
+231
+00:18:33,697 --> 00:18:36,950
+Me neither! They run this place
+like a fucking prison!
+
+232
+00:18:44,791 --> 00:18:46,459
+Son of a bitch!
+
+233
+00:18:51,381 --> 00:18:53,717
+Captain, take it easy!
+
+234
+00:19:16,072 --> 00:19:19,367
+If I hear so much as a mouse fart
+in here tonight...
+
+235
+00:19:19,576 --> 00:19:22,996
+...I swear by God and Jesus,
+you will all visit the infirmary.
+
+236
+00:19:23,496 --> 00:19:25,832
+Every last motherfucker in here.
+
+237
+00:19:29,252 --> 00:19:32,922
+Call the trustees. Take that
+tub of shit down to the infirmary.
+
+238
+00:19:47,270 --> 00:19:51,900
+<i>His first night in the joint,
+Dufresne cost me two packs of cigarettes.</i>
+
+239
+00:19:52,108 --> 00:19:55,111
+<i>He never made a sound.</i>
+
+240
+00:20:10,460 --> 00:20:12,712
+Tier 3 north, clear count!
+
+241
+00:20:12,879 --> 00:20:15,757
+-Tier 2 north, clear.
+-Tier 2 south, clear.
+
+242
+00:20:16,007 --> 00:20:19,010
+-Tier 3 south, clear.
+-Tier 1 north, clear.
+
+243
+00:20:19,177 --> 00:20:22,639
+-Tier 1 south, clear.
+-Tier 4 south, clear.
+
+244
+00:20:23,223 --> 00:20:24,808
+Prepare to roll out.
+
+245
+00:20:28,395 --> 00:20:29,896
+Roll out!
+
+246
+00:21:22,949 --> 00:21:25,994
+Are you going to eat that?
+
+247
+00:21:26,619 --> 00:21:28,913
+I hadn't planned on it.
+
+248
+00:21:29,998 --> 00:21:31,207
+Do you mind?
+
+249
+00:21:39,799 --> 00:21:41,217
+That's nice and ripe.
+
+250
+00:21:52,937 --> 00:21:55,023
+Jake says thank you.
+
+251
+00:21:55,523 --> 00:21:58,693
+Fell out of his nest
+over by the plate shop.
+
+252
+00:22:00,111 --> 00:22:03,490
+I'm going to look after him
+until he's big enough to fly.
+
+253
+00:22:04,949 --> 00:22:06,409
+Oh, no, no! Here he comes.
+
+254
+00:22:09,746 --> 00:22:11,206
+Morning, fellas.
+
+255
+00:22:11,414 --> 00:22:13,374
+Fine morning, isn't it?
+
+256
+00:22:13,708 --> 00:22:15,919
+You know why it's a fine morning,
+don't you?
+
+257
+00:22:16,211 --> 00:22:18,421
+Come on, send them down.
+I want them all lined up...
+
+258
+00:22:18,713 --> 00:22:21,257
+...just like a pretty little
+chorus line.
+
+259
+00:22:22,383 --> 00:22:23,593
+Yeah, look at that.
+
+260
+00:22:24,093 --> 00:22:27,263
+-I can't stand this guy.
+-Oh, Lord!
+
+261
+00:22:27,931 --> 00:22:30,433
+Yes! Richmond, Virginia.
+
+262
+00:22:30,600 --> 00:22:31,976
+Smell my ass!
+
+263
+00:22:32,185 --> 00:22:33,853
+After he smells mine.
+
+264
+00:22:34,020 --> 00:22:38,316
+Gee, Red, that's a shame about your horse
+coming in last and all.
+
+265
+00:22:38,525 --> 00:22:41,361
+But I sure do love
+that winning horse of mine, though.
+
+266
+00:22:41,569 --> 00:22:44,572
+I believe I owe that boy a great big
+sloppy kiss when I see him.
+
+267
+00:22:44,739 --> 00:22:48,952
+Why don't you give him some of your
+cigarettes instead? Lucky fuck!
+
+268
+00:22:49,244 --> 00:22:50,787
+Hey, Tyrell.
+
+269
+00:22:51,120 --> 00:22:53,122
+You pull infirmary duty this week?
+
+270
+00:22:54,082 --> 00:22:55,667
+How's that horse of mine doing anyway?
+
+271
+00:22:56,084 --> 00:22:57,210
+Dead.
+
+272
+00:22:58,044 --> 00:23:00,255
+Hadley busted his head up pretty good.
+
+273
+00:23:00,463 --> 00:23:02,632
+Doc had gone home for the night.
+
+274
+00:23:03,132 --> 00:23:05,426
+Poor bastard lay there
+till this morning.
+
+275
+00:23:05,635 --> 00:23:08,096
+By then, there wasn't nothing
+we could do.
+
+276
+00:23:14,394 --> 00:23:15,687
+What was his name?
+
+277
+00:23:19,065 --> 00:23:20,316
+What'd you say?
+
+278
+00:23:22,235 --> 00:23:24,654
+I was just wondering
+if anyone knew his name.
+
+279
+00:23:25,321 --> 00:23:28,074
+What the fuck do you care, new fish?
+
+280
+00:23:29,075 --> 00:23:32,203
+Doesn't fucking matter
+what his name was. He's dead.
+
+281
+00:23:51,681 --> 00:23:53,308
+Hey.
+
+282
+00:23:54,267 --> 00:23:56,269
+Anybody come at you yet?
+
+283
+00:23:58,396 --> 00:24:00,231
+Anybody get to you yet?
+
+284
+00:24:01,899 --> 00:24:04,444
+Hey, we all need friends in here.
+
+285
+00:24:04,736 --> 00:24:06,404
+I could be a friend to you.
+
+286
+00:24:09,657 --> 00:24:11,117
+Hey.
+
+287
+00:24:15,622 --> 00:24:17,040
+Hard to get.
+
+288
+00:24:19,125 --> 00:24:20,627
+I like that.
+
+289
+00:24:27,550 --> 00:24:30,803
+<i>Andy kept pretty much
+to himself at first.</i>
+
+290
+00:24:31,137 --> 00:24:33,097
+<i>I guess he had a lot on his mind...</i>
+
+291
+00:24:33,556 --> 00:24:36,392
+<i>...trying to adapt
+to life on the inside.</i>
+
+292
+00:24:37,101 --> 00:24:40,313
+<i>Wasn't until a month went by
+that he finally opened his mouth...</i>
+
+293
+00:24:40,521 --> 00:24:42,899
+<i>...to say more than two words
+to somebody.</i>
+
+294
+00:24:44,067 --> 00:24:45,652
+<i>As it turned out...</i>
+
+295
+00:24:46,110 --> 00:24:47,987
+<i>...that somebody was me.</i>
+
+296
+00:24:51,157 --> 00:24:54,786
+<i>Officers Russell
+and Berwell, report to duty officer.</i>
+
+297
+00:24:54,952 --> 00:24:56,579
+<i>Russell and Berwell, report to...</i>
+
+298
+00:24:56,746 --> 00:24:58,539
+I'm Andy Dufresne.
+
+299
+00:24:59,749 --> 00:25:01,501
+Wife-killing banker.
+
+300
+00:25:03,753 --> 00:25:05,088
+Why'd you do it?
+
+301
+00:25:05,505 --> 00:25:07,590
+I didn't, since you ask.
+
+302
+00:25:08,174 --> 00:25:10,009
+You're going to fit right in.
+
+303
+00:25:10,259 --> 00:25:12,929
+Everybody in here's innocent.
+Didn't you know that?
+
+304
+00:25:13,554 --> 00:25:16,766
+-What you in here for?
+-Didn't do it. Lawyer fucked me.
+
+305
+00:25:19,769 --> 00:25:22,355
+Rumor has it you're a real cold fish.
+
+306
+00:25:22,563 --> 00:25:26,150
+You think your shit smells
+sweeter than most. Is that right?
+
+307
+00:25:26,359 --> 00:25:27,819
+What do you think?
+
+308
+00:25:28,194 --> 00:25:31,280
+To tell you the truth,
+I haven't made up my mind.
+
+309
+00:25:32,407 --> 00:25:35,201
+I understand you're a man
+that knows how to get things.
+
+310
+00:25:36,160 --> 00:25:39,455
+I'm known to locate certain things
+from time to time.
+
+311
+00:25:39,664 --> 00:25:41,624
+I wonder if you might get me
+a rock hammer.
+
+312
+00:25:41,791 --> 00:25:44,252
+-A what?
+-A rock hammer.
+
+313
+00:25:44,627 --> 00:25:47,296
+-What is it and why?
+-What do you care?
+
+314
+00:25:48,631 --> 00:25:51,342
+Well, if it was a toothbrush, I wouldn't ask.
+I'd quote a price.
+
+315
+00:25:51,551 --> 00:25:53,970
+But then a toothbrush
+is a non-lethal object, isn't it?
+
+316
+00:25:55,555 --> 00:25:56,973
+Fair enough.
+
+317
+00:25:57,390 --> 00:26:00,017
+A rock hammer is about
+six or seven inches long.
+
+318
+00:26:00,226 --> 00:26:02,562
+-Looks like a miniature pickax.
+-Pickax?
+
+319
+00:26:02,770 --> 00:26:04,981
+-For rocks.
+-Rocks.
+
+320
+00:26:06,566 --> 00:26:07,817
+Quartz?
+
+321
+00:26:08,693 --> 00:26:10,403
+Quartz.
+
+322
+00:26:11,738 --> 00:26:15,199
+And some mica, shale...
+
+323
+00:26:16,451 --> 00:26:17,702
+...limestone.
+
+324
+00:26:17,952 --> 00:26:19,078
+So?
+
+325
+00:26:19,996 --> 00:26:21,831
+So I'm a rock hound.
+
+326
+00:26:22,290 --> 00:26:25,376
+At least I was in my old life.
+I'd like to be again on a limited basis.
+
+327
+00:26:25,668 --> 00:26:28,755
+Or maybe you'd like to sink your toy
+into somebody's skull.
+
+328
+00:26:28,921 --> 00:26:31,841
+No, sir. No, I have no enemies here.
+
+329
+00:26:32,008 --> 00:26:34,343
+No? Wait a while.
+
+330
+00:26:35,970 --> 00:26:37,555
+Word gets around.
+
+331
+00:26:38,222 --> 00:26:40,725
+The Sisters have taken
+quite a liking to you.
+
+332
+00:26:42,101 --> 00:26:43,895
+Especially Bogs.
+
+333
+00:26:44,896 --> 00:26:48,357
+Don't suppose it would help any
+if I explained to them I'm not homosexual.
+
+334
+00:26:48,524 --> 00:26:49,984
+Neither are they.
+
+335
+00:26:50,193 --> 00:26:53,654
+You have to be human first.
+They don't qualify.
+
+336
+00:26:58,159 --> 00:27:02,538
+Bull queers take by force.
+That's all they want or understand.
+
+337
+00:27:02,747 --> 00:27:06,292
+If I were you, I'd grow eyes
+in the back of my head.
+
+338
+00:27:06,501 --> 00:27:09,253
+-Thanks for the advice.
+-Well, that's free.
+
+339
+00:27:09,587 --> 00:27:11,547
+You understand my concern.
+
+340
+00:27:11,756 --> 00:27:15,092
+If there's any trouble,
+I won't use the rock hammer, okay?
+
+341
+00:27:15,259 --> 00:27:19,347
+Then I'd guess you want to escape.
+Tunnel under the wall, maybe.
+
+342
+00:27:20,223 --> 00:27:21,891
+Did I miss something? What's so funny?
+
+343
+00:27:22,308 --> 00:27:25,019
+You'll understand
+when you see the rock hammer.
+
+344
+00:27:26,854 --> 00:27:29,065
+What's an item like this usually go for?
+
+345
+00:27:29,273 --> 00:27:31,776
+Seven dollars in any rock-and-gem shop.
+
+346
+00:27:32,276 --> 00:27:34,737
+My normal markup's 20 percent.
+
+347
+00:27:34,946 --> 00:27:37,323
+But this is a specialty item.
+
+348
+00:27:37,532 --> 00:27:41,994
+Risk goes up, price goes up.
+Let's make it an even 10 bucks.
+
+349
+00:27:42,203 --> 00:27:43,538
+Ten it is.
+
+350
+00:27:45,248 --> 00:27:47,291
+Waste of money, if you ask me.
+
+351
+00:27:47,583 --> 00:27:48,876
+Why's that?
+
+352
+00:27:50,253 --> 00:27:53,297
+Folks around this joint
+love surprise inspections.
+
+353
+00:27:54,924 --> 00:27:56,884
+They find it, you're going to lose it.
+
+354
+00:27:57,093 --> 00:27:59,178
+If they do catch you with it,
+you don't know me.
+
+355
+00:27:59,387 --> 00:28:01,597
+You mention my name,
+we never do business again.
+
+356
+00:28:02,098 --> 00:28:05,226
+Not for shoelaces or a stick of gum.
+Now you got that?
+
+357
+00:28:06,060 --> 00:28:07,603
+I understand.
+
+358
+00:28:08,813 --> 00:28:10,940
+Thank you, Mr...
+
+359
+00:28:11,107 --> 00:28:12,149
+Red.
+
+360
+00:28:12,900 --> 00:28:14,193
+-Name's Red.
+-Red.
+
+361
+00:28:15,611 --> 00:28:17,280
+Why do they call you that?
+
+362
+00:28:21,033 --> 00:28:23,035
+Maybe it's because I'm Irish.
+
+363
+00:28:31,210 --> 00:28:34,088
+<i>I could see why some of the boys
+took him for snobby.</i>
+
+364
+00:28:34,964 --> 00:28:37,383
+<i>He had a quiet way about him...</i>
+
+365
+00:28:37,717 --> 00:28:41,888
+<i>...a walk and a talk that just
+wasn't normal around here.</i>
+
+366
+00:28:42,221 --> 00:28:43,681
+<i>He strolled...</i>
+
+367
+00:28:43,890 --> 00:28:48,102
+<i>...like a man in the park without a care
+or a worry in the world.</i>
+
+368
+00:28:48,311 --> 00:28:52,982
+<i>Like he had on an invisible coat
+that would shield him from this place.</i>
+
+369
+00:28:53,316 --> 00:28:57,153
+<i>Yeah, I think it would be fair to say...</i>
+
+370
+00:28:57,403 --> 00:28:59,655
+<i>...I liked Andy from the start.</i>
+
+371
+00:29:01,407 --> 00:29:04,994
+Let's go! Some of us
+got a schedule to keep.
+
+372
+00:29:08,331 --> 00:29:10,833
+Move it! Come on, move it!
+
+373
+00:29:13,419 --> 00:29:16,339
+How you doing?
+How's the wife treating you?
+
+374
+00:29:28,017 --> 00:29:29,977
+Keep it moving.
+
+375
+00:29:33,272 --> 00:29:35,024
+Red.
+
+376
+00:29:54,502 --> 00:29:55,962
+<i>Andy was right.</i>
+
+377
+00:29:56,212 --> 00:29:58,422
+<i>I finally got the joke.</i>
+
+378
+00:29:58,714 --> 00:30:01,133
+<i>It would take a man about 600 years...</i>
+
+379
+00:30:01,342 --> 00:30:03,803
+<i>...to tunnel under the wall
+with one of these.</i>
+
+380
+00:30:07,556 --> 00:30:10,017
+-Book?
+-Not today.
+
+381
+00:30:16,065 --> 00:30:18,067
+-Book?
+-No.
+
+382
+00:30:19,777 --> 00:30:21,946
+Hey, Brooksie.
+
+383
+00:30:24,407 --> 00:30:26,575
+Delivery for Dufresne.
+
+384
+00:30:33,624 --> 00:30:35,751
+-Book?
+-Pass.
+
+385
+00:30:37,378 --> 00:30:38,879
+Book?
+
+386
+00:30:42,049 --> 00:30:45,845
+Dufresne, here's your book.
+
+387
+00:30:50,850 --> 00:30:52,101
+Thanks.
+
+388
+00:30:57,106 --> 00:31:02,069
+Dufresne, we're running low on hexite.
+Get on back and fetch us up some.
+
+389
+00:31:39,356 --> 00:31:40,941
+This will blind you.
+
+390
+00:31:41,317 --> 00:31:43,694
+Honey, hush.
+
+391
+00:31:56,248 --> 00:31:58,209
+That's it. You fight!
+
+392
+00:31:58,417 --> 00:31:59,877
+Better that way.
+
+393
+00:32:08,135 --> 00:32:11,222
+<i>I wish I could tell you
+that Andy fought the good fight...</i>
+
+394
+00:32:11,430 --> 00:32:13,432
+<i>...and the Sisters let him be.</i>
+
+395
+00:32:14,016 --> 00:32:15,851
+<i>I wish I could tell you that...</i>
+
+396
+00:32:16,018 --> 00:32:19,021
+<i>...but prison is no fairy-tale world.</i>
+
+397
+00:32:20,147 --> 00:32:22,108
+<i>He never said who did it.</i>
+
+398
+00:32:22,358 --> 00:32:23,943
+<i>But we all knew.</i>
+
+399
+00:32:28,781 --> 00:32:31,283
+<i>Things went on like that for a while.</i>
+
+400
+00:32:31,700 --> 00:32:34,203
+<i>Prison life consists of routine...</i>
+
+401
+00:32:34,453 --> 00:32:36,413
+<i>...and then more routine.</i>
+
+402
+00:32:38,916 --> 00:32:42,461
+<i>Every so often, Andy would show up
+with fresh bruises.</i>
+
+403
+00:32:43,921 --> 00:32:45,756
+<i>The Sisters kept at him.</i>
+
+404
+00:32:46,006 --> 00:32:48,050
+<i>Sometimes he was able
+to fight them off.</i>
+
+405
+00:32:48,259 --> 00:32:49,760
+<i>Sometimes not.</i>
+
+406
+00:32:50,928 --> 00:32:53,097
+<i>And that's how it went for Andy.</i>
+
+407
+00:32:53,681 --> 00:32:55,432
+<i>That was his routine.</i>
+
+408
+00:32:56,267 --> 00:32:59,728
+<i>I do believe those first two years
+were the worst for him.</i>
+
+409
+00:33:00,229 --> 00:33:03,566
+<i>And I also believe
+if things had gone on that way...</i>
+
+410
+00:33:03,899 --> 00:33:06,360
+<i>...this place would have
+got the best of him.</i>
+
+411
+00:33:07,111 --> 00:33:09,905
+<i>But then, in the spring of 1949...</i>
+
+412
+00:33:10,114 --> 00:33:12,032
+<i>...the powers that be decided that:</i>
+
+413
+00:33:12,241 --> 00:33:15,578
+The roof of the license-plate factory
+needs resurfacing.
+
+414
+00:33:15,744 --> 00:33:18,956
+I need a dozen volunteers
+for a week's work.
+
+415
+00:33:19,665 --> 00:33:21,125
+As you know...
+
+416
+00:33:21,876 --> 00:33:25,421
+...special detail carries with it
+special privileges.
+
+417
+00:33:25,629 --> 00:33:28,048
+<i>It was outdoor detail...</i>
+
+418
+00:33:28,424 --> 00:33:32,720
+<i>...and May is one damned fine month
+to be working outdoors.</i>
+
+419
+00:33:33,179 --> 00:33:34,263
+Stay in line there.
+
+420
+00:33:34,471 --> 00:33:37,641
+<i>More than 100 men
+volunteered for the job.</i>
+
+421
+00:33:41,937 --> 00:33:44,940
+"Wallace E. Unger.
+
+422
+00:33:45,441 --> 00:33:47,776
+Ellis Redding."
+
+423
+00:33:47,985 --> 00:33:49,570
+<i>Wouldn't you know it?</i>
+
+424
+00:33:49,987 --> 00:33:53,282
+<i>Me and some fellows I know
+were among the names called.</i>
+
+425
+00:33:53,490 --> 00:33:55,492
+"Andrew Dufresne."
+
+426
+00:33:55,910 --> 00:33:58,829
+<i>It only cost us
+a pack of smokes per man.</i>
+
+427
+00:33:59,330 --> 00:34:01,790
+<i>I made my usual 20 percent, of course.</i>
+
+428
+00:34:01,999 --> 00:34:05,461
+So this big-shot lawyer
+calls me long-distance from Texas.
+
+429
+00:34:05,669 --> 00:34:07,254
+I say, "Yeah?"
+
+430
+00:34:07,504 --> 00:34:11,133
+He says, "Sorry to inform you,
+but your brother just died."
+
+431
+00:34:11,342 --> 00:34:15,262
+-I'm sorry to hear that.
+-I'm not. He was an asshole.
+
+432
+00:34:15,471 --> 00:34:17,640
+Ran off years ago.
+Figured him for dead.
+
+433
+00:34:17,848 --> 00:34:20,142
+So anyway, this lawyer fellow says to me:
+
+434
+00:34:20,351 --> 00:34:24,480
+"Your brother died a rich man."
+Oil wells and shit. Close to a million bucks.
+
+435
+00:34:25,147 --> 00:34:27,024
+-A million bucks?
+-Yeah.
+
+436
+00:34:27,316 --> 00:34:31,820
+-Incredible how lucky some assholes get.
+-You going to see any of that?
+
+437
+00:34:32,446 --> 00:34:35,199
+Thirty-five thousand.
+That's what he left me.
+
+438
+00:34:35,407 --> 00:34:37,159
+-Dollars?
+-Yep.
+
+439
+00:34:37,326 --> 00:34:40,329
+Holy shit, that's great!
+That's like winning the sweepstakes.
+
+440
+00:34:40,663 --> 00:34:41,830
+Isn't it?
+
+441
+00:34:41,997 --> 00:34:44,959
+Dumb-shit, what do you think
+the government is gonna do to me?
+
+442
+00:34:45,167 --> 00:34:47,503
+Take a big wet bite
+out of my ass is what.
+
+443
+00:34:48,295 --> 00:34:49,630
+Poor Byron.
+
+444
+00:34:50,506 --> 00:34:53,676
+Terrible fucking luck, huh?
+Crying shame.
+
+445
+00:34:53,884 --> 00:34:56,178
+Some people really got it awful.
+
+446
+00:34:56,428 --> 00:34:57,805
+Andy, are you nuts?
+
+447
+00:34:58,013 --> 00:34:59,890
+Keep your eyes on your mop, man! Andy.
+
+448
+00:35:00,099 --> 00:35:03,060
+You'll pay some tax,
+but you'll still end up--
+
+449
+00:35:03,269 --> 00:35:06,063
+Yeah, yeah, maybe enough to buy
+a new car, and then what?
+
+450
+00:35:06,272 --> 00:35:08,440
+I got to pay tax on the car. Repair...
+
+451
+00:35:08,691 --> 00:35:12,403
+...maintenance, kids pestering you
+to take them for a ride all the time.
+
+452
+00:35:12,653 --> 00:35:16,323
+Then if you figure your tax wrong,
+you pay out of your own pocket.
+
+453
+00:35:16,532 --> 00:35:18,659
+I tell you! Uncle Sam!
+
+454
+00:35:18,867 --> 00:35:22,288
+He puts his hand in your shirt
+and squeezes your tit till it's purple.
+
+455
+00:35:22,454 --> 00:35:24,039
+Andy. Andy. Andy.
+
+456
+00:35:25,541 --> 00:35:27,710
+-Getting himself killed.
+-Keep tarring.
+
+457
+00:35:27,918 --> 00:35:30,462
+Some brother. Shit!
+
+458
+00:35:30,963 --> 00:35:32,006
+Hey!
+
+459
+00:35:35,384 --> 00:35:36,802
+Mr. Hadley...
+
+460
+00:35:37,678 --> 00:35:39,054
+...do you trust your wife?
+
+461
+00:35:40,681 --> 00:35:42,141
+Oh, that's funny.
+
+462
+00:35:42,683 --> 00:35:45,352
+You'll look funnier
+sucking my dick with no teeth.
+
+463
+00:35:45,519 --> 00:35:48,856
+What I mean is, do you think
+she'd go behind your back?
+
+464
+00:35:49,982 --> 00:35:53,402
+Step aside, Mert. This fucker's
+having himself an accident.
+
+465
+00:35:53,569 --> 00:35:54,695
+He'll push him off!
+
+466
+00:35:54,862 --> 00:35:56,739
+Because if you trust her, you can keep...
+
+467
+00:35:56,905 --> 00:35:58,324
+...that 35,000.
+
+468
+00:35:59,074 --> 00:36:01,234
+-What did you say?
+-Thirty-five thousand.
+
+469
+00:36:01,285 --> 00:36:03,120
+-Thirty-five thousand.
+-All of it.
+
+470
+00:36:03,287 --> 00:36:04,647
+-All of it?
+-Every penny.
+
+471
+00:36:04,788 --> 00:36:06,707
+You better start making sense.
+
+472
+00:36:06,915 --> 00:36:09,251
+If you want to keep it,
+give it to your wife.
+
+473
+00:36:09,418 --> 00:36:13,339
+The IRS allows a one-time-only gift
+to your spouse for up to $60,000.
+
+474
+00:36:13,547 --> 00:36:15,924
+-Bullshit. Tax-free?
+-Tax-free.
+
+475
+00:36:16,091 --> 00:36:18,093
+IRS can't touch one cent.
+
+476
+00:36:18,469 --> 00:36:20,929
+You're that smart banker
+what killed his wife, aren't you?
+
+477
+00:36:21,180 --> 00:36:24,558
+Why should I believe a smart banker?
+So I can end up in here with you?
+
+478
+00:36:24,767 --> 00:36:27,603
+It's perfectly legal. Go ask the IRS.
+They'll say the same thing.
+
+479
+00:36:27,770 --> 00:36:31,857
+Actually, I feel stupid telling you this.
+I'm sure you would have investigated.
+
+480
+00:36:32,066 --> 00:36:35,736
+I don't need you to tell me
+where the bear shit in the buckwheat.
+
+481
+00:36:35,944 --> 00:36:39,323
+Of course not. But you do need
+someone to set up the tax-free gift for you.
+
+482
+00:36:39,531 --> 00:36:41,116
+That'll cost you.
+A lawyer, for example.
+
+483
+00:36:41,283 --> 00:36:43,577
+A bunch of ball-washing bastards!
+
+484
+00:36:44,036 --> 00:36:47,498
+I suppose I could set it up for you.
+That would save you some money.
+
+485
+00:36:47,706 --> 00:36:49,792
+You get the forms,
+I'll prepare them for you...
+
+486
+00:36:50,000 --> 00:36:51,752
+...nearly free of charge.
+
+487
+00:36:52,961 --> 00:36:56,298
+I'd only ask three beers apiece
+for each of my coworkers.
+
+488
+00:36:57,257 --> 00:36:59,635
+"Coworkers." That's rich, ain't it?
+
+489
+00:36:59,802 --> 00:37:02,137
+I think a man working outdoors
+feels more like a man...
+
+490
+00:37:02,346 --> 00:37:05,808
+...if he can have a bottle of suds.
+That's only my opinion...
+
+491
+00:37:06,266 --> 00:37:07,267
+...sir.
+
+492
+00:37:11,188 --> 00:37:13,148
+What are you jimmies staring at?
+
+493
+00:37:13,315 --> 00:37:14,942
+Let's go! Work!
+
+494
+00:37:24,451 --> 00:37:26,370
+<i>And that's how it came to pass...</i>
+
+495
+00:37:26,578 --> 00:37:29,248
+<i>...that on the second-to-last
+day of the job...</i>
+
+496
+00:37:29,456 --> 00:37:34,002
+<i>...the convict crew that tarred
+the factory roof in the spring of '49...</i>
+
+497
+00:37:34,211 --> 00:37:37,339
+<i>...wound up sitting in a row
+at 10:00 in the morning...</i>
+
+498
+00:37:37,548 --> 00:37:43,011
+<i>...drinking icy-cold beer,
+courtesy of the hardest screw...</i>
+
+499
+00:37:43,220 --> 00:37:46,515
+<i>...that ever walked a turn
+at Shawshank State Prison.</i>
+
+500
+00:37:46,682 --> 00:37:49,143
+Drink up while it's cold, ladies.
+
+501
+00:37:50,227 --> 00:37:54,815
+<i>The colossal prick even managed
+to sound magnanimous.</i>
+
+502
+00:37:55,941 --> 00:38:00,404
+<i>We sat and drank with the sun
+on our shoulders and felt like free men.</i>
+
+503
+00:38:00,779 --> 00:38:04,199
+<i>Hell, we could have been tarring
+the roof of one of our own houses.</i>
+
+504
+00:38:04,408 --> 00:38:07,244
+<i>We were the lords of all creation.</i>
+
+505
+00:38:07,828 --> 00:38:09,413
+<i>As for Andy...</i>
+
+506
+00:38:09,663 --> 00:38:12,291
+<i>...he spent that break
+hunkered in the shade...</i>
+
+507
+00:38:12,499 --> 00:38:15,002
+<i>...a strange little smile on his face...</i>
+
+508
+00:38:15,210 --> 00:38:17,421
+<i>...watching us drink his beer.</i>
+
+509
+00:38:23,802 --> 00:38:26,889
+Hey. Want a cold one, Andy?
+
+510
+00:38:27,556 --> 00:38:30,517
+No, thanks. I gave up drinking.
+
+511
+00:38:34,480 --> 00:38:37,566
+<i>You could argue he'd done it
+to curry a favor with the guards.</i>
+
+512
+00:38:38,233 --> 00:38:42,070
+<i>Or maybe make a few friends
+among us cons.</i>
+
+513
+00:38:42,779 --> 00:38:43,864
+<i>Me?</i>
+
+514
+00:38:44,072 --> 00:38:46,867
+<i>I think he did it
+just to feel normal again...</i>
+
+515
+00:38:47,284 --> 00:38:49,536
+<i>...if only for a short while.</i>
+
+516
+00:38:52,164 --> 00:38:53,248
+King me.
+
+517
+00:38:55,125 --> 00:38:57,753
+-Chess. Now there's a game of kings.
+-What?
+
+518
+00:38:57,961 --> 00:38:59,713
+Civilized. Strategic.
+
+519
+00:39:00,380 --> 00:39:03,383
+And a total fucking mystery. I hate it.
+
+520
+00:39:03,634 --> 00:39:05,427
+Let me teach you someday.
+
+521
+00:39:06,929 --> 00:39:07,930
+Sure.
+
+522
+00:39:08,430 --> 00:39:10,140
+We could get a board together.
+
+523
+00:39:10,390 --> 00:39:13,435
+You're talking to the right man.
+I can get things, right?
+
+524
+00:39:13,644 --> 00:39:17,648
+We might do business on a board,
+and I'll carve the pieces myself.
+
+525
+00:39:17,856 --> 00:39:21,151
+One side in alabaster, the opposing side
+in soapstone. What do you think?
+
+526
+00:39:21,777 --> 00:39:23,153
+I think it'll take years.
+
+527
+00:39:23,362 --> 00:39:25,906
+Years I got.
+What I don't have are the rocks.
+
+528
+00:39:26,114 --> 00:39:28,075
+Pickings are pretty slim in the yard.
+
+529
+00:39:28,283 --> 00:39:30,118
+Pebbles, mostly.
+
+530
+00:39:34,456 --> 00:39:37,251
+Andy, we're getting to be
+kind of friends, aren't we?
+
+531
+00:39:38,126 --> 00:39:39,670
+Yeah, I guess.
+
+532
+00:39:40,295 --> 00:39:41,838
+Can I ask you something?
+
+533
+00:39:43,298 --> 00:39:44,758
+Why'd you do it?
+
+534
+00:39:45,968 --> 00:39:47,553
+I'm innocent, Red.
+
+535
+00:39:47,761 --> 00:39:49,805
+Just like everybody else here.
+
+536
+00:39:54,142 --> 00:39:55,686
+What are you in for?
+
+537
+00:39:58,397 --> 00:40:00,566
+Murder. Same as you.
+
+538
+00:40:00,774 --> 00:40:01,942
+Innocent?
+
+539
+00:40:04,653 --> 00:40:07,030
+Only guilty man in Shawshank.
+
+540
+00:40:18,709 --> 00:40:21,920
+<i>Perimeter check.
+North wall.</i>
+
+541
+00:41:06,632 --> 00:41:07,883
+<i>Where's the canary?</i>
+
+542
+00:41:08,050 --> 00:41:09,384
+<i>How did you know?</i>
+
+543
+00:41:09,551 --> 00:41:11,887
+<i>-How did I know what?
+-So you don't know.</i>
+
+544
+00:41:12,054 --> 00:41:13,221
+<i>Come.</i>
+
+545
+00:41:15,724 --> 00:41:17,851
+<i>This is where the canary is, Johnny.</i>
+
+546
+00:41:20,520 --> 00:41:23,857
+<i>Quite a surprise to hear
+a woman singing in my house, eh?</i>
+
+547
+00:41:27,361 --> 00:41:28,737
+<i>That's quite a...</i>
+
+548
+00:41:29,696 --> 00:41:31,365
+<i>...surprise.</i>
+
+549
+00:41:33,617 --> 00:41:37,079
+-Red?
+-Wait, wait.
+
+550
+00:41:37,579 --> 00:41:39,081
+Here she comes.
+
+551
+00:41:39,373 --> 00:41:42,250
+This is the part I really like,
+when she does that shit with her hair.
+
+552
+00:41:42,417 --> 00:41:45,170
+Oh, yeah, I know. I've seen it
+three times this month.
+
+553
+00:41:45,379 --> 00:41:47,255
+<i>Gilda, are you decent?</i>
+
+554
+00:41:48,256 --> 00:41:49,424
+<i>Me?</i>
+
+555
+00:41:49,633 --> 00:41:51,927
+-Oh!
+-Oh.
+
+556
+00:41:52,094 --> 00:41:53,887
+God, I love it.
+
+557
+00:41:59,059 --> 00:42:02,062
+I understand you're a man
+that knows how to get things.
+
+558
+00:42:03,063 --> 00:42:06,775
+Yeah, I'm known to locate certain things
+from time to time. What do you want?
+
+559
+00:42:06,983 --> 00:42:09,111
+-Rita Hayworth.
+-What?
+
+560
+00:42:09,695 --> 00:42:11,071
+Can you get her?
+
+561
+00:42:12,447 --> 00:42:15,826
+<i>So this is Johnny Farrell.
+I've heard a lot about you.</i>
+
+562
+00:42:17,077 --> 00:42:19,371
+-Take a few weeks.
+-Weeks?
+
+563
+00:42:19,579 --> 00:42:23,959
+Yeah, I don't have her stuffed down the front
+of my pants right now, sorry to say.
+
+564
+00:42:24,543 --> 00:42:25,877
+But I'll get her.
+
+565
+00:42:26,086 --> 00:42:27,421
+Relax.
+
+566
+00:42:29,297 --> 00:42:30,590
+Thanks.
+
+567
+00:42:31,299 --> 00:42:33,260
+<i>It was.
+You should've seen his face.</i>
+
+568
+00:42:33,427 --> 00:42:34,428
+Sit down.
+
+569
+00:42:34,594 --> 00:42:35,762
+<i>Did you tell him what I'm...?</i>
+
+570
+00:42:35,929 --> 00:42:37,180
+Down in front.
+
+571
+00:42:37,347 --> 00:42:40,517
+<i>-I wanted to save that as a surprise.
+-Hang on to your hat.</i>
+
+572
+00:42:41,059 --> 00:42:42,978
+<i>Gilda is my wife.</i>
+
+573
+00:42:50,986 --> 00:42:52,946
+-Take a walk!
+-I got to change the reel!
+
+574
+00:42:53,155 --> 00:42:55,157
+I said fuck off!
+
+575
+00:43:01,329 --> 00:43:02,664
+Ain't you going to scream?
+
+576
+00:43:03,999 --> 00:43:05,876
+Let's get this over with.
+
+577
+00:43:11,006 --> 00:43:13,008
+He broke my fucking nose!
+
+578
+00:43:22,309 --> 00:43:23,518
+Now...
+
+579
+00:43:24,019 --> 00:43:26,188
+...I'm going to open my fly...
+
+580
+00:43:26,438 --> 00:43:29,191
+...and you'll swallow
+what I give you to swallow.
+
+581
+00:43:30,358 --> 00:43:32,944
+Then you'll swallow Rooster's.
+You broke his nose.
+
+582
+00:43:33,153 --> 00:43:35,280
+I think ye ought to have
+something to show for it.
+
+583
+00:43:35,489 --> 00:43:37,369
+Anything you put it in my mouth,
+you'll lose it.
+
+584
+00:43:37,532 --> 00:43:40,160
+No, you don't understand.
+
+585
+00:43:40,494 --> 00:43:43,538
+Do that and I'll put all eight inches
+of this steel in your ear.
+
+586
+00:43:43,705 --> 00:43:47,209
+All right, but you should know
+that sudden, serious brain injury...
+
+587
+00:43:47,375 --> 00:43:49,336
+...causes the victim to bite down hard.
+
+588
+00:43:50,796 --> 00:43:53,048
+In fact, I hear the bite reflex
+is so strong...
+
+589
+00:43:53,840 --> 00:43:56,301
+...they have to pry
+the victim's jaws open...
+
+590
+00:43:56,510 --> 00:43:57,886
+...with a crowbar.
+
+591
+00:44:00,847 --> 00:44:02,390
+Where do you get this shit?
+
+592
+00:44:02,557 --> 00:44:03,975
+I read it.
+
+593
+00:44:05,393 --> 00:44:08,063
+You know how to read,
+you ignorant fuck?
+
+594
+00:44:09,731 --> 00:44:11,024
+Honey.
+
+595
+00:44:12,734 --> 00:44:14,486
+You shouldn't!
+
+596
+00:44:17,155 --> 00:44:20,075
+<i>Bogs didn't put anything
+in Andy's mouth.</i>
+
+597
+00:44:20,325 --> 00:44:22,410
+<i>And neither did his friends.</i>
+
+598
+00:44:22,828 --> 00:44:26,665
+<i>What they did do is beat him
+within an inch of his life.</i>
+
+599
+00:44:27,332 --> 00:44:29,835
+<i>Andy spent a month in the infirmary.</i>
+
+600
+00:44:30,627 --> 00:44:33,171
+<i>Bogs spent a week in the hole.</i>
+
+601
+00:44:37,259 --> 00:44:38,760
+Time's up, Bogs.
+
+602
+00:44:42,597 --> 00:44:44,266
+It's your world, boss.
+
+603
+00:44:47,519 --> 00:44:50,313
+<i>Return to
+your cellblocks for evening count.</i>
+
+604
+00:44:50,522 --> 00:44:53,191
+<i>All prisoners report for lockdown.</i>
+
+605
+00:45:08,123 --> 00:45:09,124
+What?
+
+606
+00:45:21,803 --> 00:45:24,306
+-Where's he going?
+-Grab his ankles.
+
+607
+00:45:27,642 --> 00:45:31,396
+No! No! Help me!
+
+608
+00:45:35,066 --> 00:45:37,652
+<i>Two things never happened
+again after that.</i>
+
+609
+00:45:37,944 --> 00:45:41,072
+<i>The Sisters never
+laid a finger on Andy again.</i>
+
+610
+00:45:41,907 --> 00:45:44,409
+<i>And Bogs never walked again.</i>
+
+611
+00:45:45,577 --> 00:45:49,080
+<i>They transferred him
+to a minimum-security hospital upstate.</i>
+
+612
+00:45:49,289 --> 00:45:51,791
+<i>To my knowledge,
+he lived out the rest of his days...</i>
+
+613
+00:45:51,958 --> 00:45:54,085
+<i>...drinking his food through a straw.</i>
+
+614
+00:45:55,086 --> 00:45:59,174
+Andy could use a nice "welcome back"
+when he gets out of the infirmary.
+
+615
+00:46:00,926 --> 00:46:02,510
+Sounds good to us.
+
+616
+00:46:02,761 --> 00:46:05,263
+I figure we owe him that much
+for the beer.
+
+617
+00:46:06,014 --> 00:46:08,266
+The man likes to play chess.
+
+618
+00:46:08,767 --> 00:46:10,685
+Let's get him some rocks.
+
+619
+00:46:43,301 --> 00:46:44,552
+Guys!
+
+620
+00:46:45,303 --> 00:46:46,388
+I got one.
+
+621
+00:46:46,554 --> 00:46:48,056
+I got one. Look!
+
+622
+00:46:49,975 --> 00:46:54,062
+Heywood, that isn't soapstone!
+And it ain't alabaster either.
+
+623
+00:46:54,229 --> 00:46:56,147
+What are you, a fucking geologist?
+
+624
+00:46:56,356 --> 00:46:58,066
+He's right. It ain't.
+
+625
+00:46:58,274 --> 00:47:01,194
+-What the hell is it then?
+-It's a horse apple.
+
+626
+00:47:02,153 --> 00:47:04,572
+-Bullshit!
+-No, horseshit.
+
+627
+00:47:04,739 --> 00:47:06,241
+Petrified.
+
+628
+00:47:11,746 --> 00:47:13,748
+Oh, Jesus.
+
+629
+00:47:15,250 --> 00:47:16,418
+Damn!
+
+630
+00:47:16,751 --> 00:47:20,964
+<i>Despite a few hitches,
+the boys came through in fine style.</i>
+
+631
+00:47:21,172 --> 00:47:23,174
+<i>And by the weekend
+he was due back...</i>
+
+632
+00:47:23,383 --> 00:47:27,095
+<i>...we had enough rocks saved up
+to keep him busy till rapture.</i>
+
+633
+00:47:27,929 --> 00:47:30,432
+<i>Also got a big shipment in that week.</i>
+
+634
+00:47:30,682 --> 00:47:31,808
+<i>Cigarettes...</i>
+
+635
+00:47:32,017 --> 00:47:33,059
+<i>...chewing gum...</i>
+
+636
+00:47:33,268 --> 00:47:34,728
+<i>...sipping whiskey...</i>
+
+637
+00:47:34,936 --> 00:47:38,314
+<i>...playing cards with naked ladies
+on them. You name it.</i>
+
+638
+00:47:38,523 --> 00:47:41,276
+<i>And, of course, the most important item:</i>
+
+639
+00:47:43,111 --> 00:47:45,196
+<i>Rita Hayworth herself.</i>
+
+640
+00:48:19,355 --> 00:48:22,108
+-Okay, look alive!
+-Open all tiers.
+
+641
+00:48:22,317 --> 00:48:24,569
+Heads up. They're tossing the cells.
+
+642
+00:48:24,778 --> 00:48:27,489
+Heads up. They're tossing the cells!
+
+643
+00:48:29,074 --> 00:48:30,575
+119.
+
+644
+00:48:32,410 --> 00:48:34,079
+123.
+
+645
+00:48:44,339 --> 00:48:45,340
+On your feet.
+
+646
+00:48:48,009 --> 00:48:49,511
+Face the wall.
+
+647
+00:49:23,628 --> 00:49:25,547
+Turn around and face the warden.
+
+648
+00:49:32,137 --> 00:49:34,222
+Pleased to see you reading this.
+
+649
+00:49:35,557 --> 00:49:37,475
+Any favorite passages?
+
+650
+00:49:38,351 --> 00:49:40,728
+"Watch ye, therefore,
+for ye know not...
+
+651
+00:49:40,895 --> 00:49:43,148
+...when the master
+of the house cometh."
+
+652
+00:49:44,274 --> 00:49:46,442
+Mark 13:35.
+
+653
+00:49:47,193 --> 00:49:49,070
+I've always liked that one.
+
+654
+00:49:49,988 --> 00:49:51,656
+But I prefer:
+
+655
+00:49:52,115 --> 00:49:53,992
+"I am the light of the world.
+
+656
+00:49:54,450 --> 00:49:57,745
+Ye that followeth me
+shall have the light of life."
+
+657
+00:49:57,954 --> 00:50:00,582
+John, chapter 8, verse 12.
+
+658
+00:50:00,874 --> 00:50:02,917
+I hear you're good with numbers.
+
+659
+00:50:03,084 --> 00:50:04,085
+How nice.
+
+660
+00:50:05,336 --> 00:50:07,255
+Man should have a skill.
+
+661
+00:50:09,799 --> 00:50:10,842
+Wanna explain this?
+
+662
+00:50:12,010 --> 00:50:16,097
+It's called a rock blanket.
+For shaping and polishing rocks.
+
+663
+00:50:16,514 --> 00:50:18,433
+A little hobby of mine.
+
+664
+00:50:29,277 --> 00:50:30,737
+It's pretty clean.
+
+665
+00:50:30,987 --> 00:50:34,115
+Some contraband here,
+but nothing to get in a twist over.
+
+666
+00:50:38,453 --> 00:50:40,455
+I can't say I approve of this.
+
+667
+00:50:42,081 --> 00:50:43,541
+But I suppose...
+
+668
+00:50:45,627 --> 00:50:47,629
+...exceptions can be made.
+
+669
+00:50:57,972 --> 00:50:59,307
+Lock them up!
+
+670
+00:51:02,227 --> 00:51:03,811
+I almost forgot.
+
+671
+00:51:04,229 --> 00:51:06,397
+I'd hate to deprive you of this.
+
+672
+00:51:07,148 --> 00:51:09,067
+Salvation lies within.
+
+673
+00:51:09,275 --> 00:51:10,318
+Yes, sir.
+
+674
+00:51:18,868 --> 00:51:21,412
+<i>Tossing cells was just an excuse.</i>
+
+675
+00:51:21,913 --> 00:51:23,164
+<i>Truth is...</i>
+
+676
+00:51:23,331 --> 00:51:25,833
+<i>...Norton wanted to size Andy up.</i>
+
+677
+00:51:39,514 --> 00:51:41,849
+My wife made that in church group.
+
+678
+00:51:44,519 --> 00:51:45,812
+Very nice, sir.
+
+679
+00:51:47,355 --> 00:51:48,856
+You enjoy working the laundry?
+
+680
+00:51:50,525 --> 00:51:52,193
+No, sir. Not especially.
+
+681
+00:51:52,527 --> 00:51:54,988
+Perhaps we can find something more...
+
+682
+00:51:55,238 --> 00:51:57,699
+...befitting a man of your education.
+
+683
+00:52:05,748 --> 00:52:07,250
+Hey, Jake. Where's Brooks?
+
+684
+00:52:07,875 --> 00:52:11,879
+Andy. I thought I heard you out here.
+
+685
+00:52:12,547 --> 00:52:14,090
+I've been reassigned to you.
+
+686
+00:52:14,382 --> 00:52:16,718
+I know, they told me.
+
+687
+00:52:17,552 --> 00:52:19,595
+Ain't that a kick in the head?
+
+688
+00:52:19,804 --> 00:52:22,098
+Well, I'll give you the dime tour.
+
+689
+00:52:22,307 --> 00:52:23,474
+Come on.
+
+690
+00:52:24,892 --> 00:52:26,602
+Well, here she is.
+
+691
+00:52:26,811 --> 00:52:28,813
+The Shawshank Prison Library.
+
+692
+00:52:29,480 --> 00:52:31,482
+<i>National Geographics...</i>
+
+693
+00:52:32,400 --> 00:52:35,194
+<i>...Reader's Digest</i> condensed books...
+
+694
+00:52:35,403 --> 00:52:36,988
+...and Louis L'Amour.
+
+695
+00:52:37,572 --> 00:52:39,407
+<i>Look</i> magazine.
+
+696
+00:52:39,741 --> 00:52:42,076
+Erle Stanley Gardners.
+
+697
+00:52:42,327 --> 00:52:45,788
+Every evening I load up the cart
+and make my rounds.
+
+698
+00:52:45,997 --> 00:52:48,666
+I enter the names
+on this clipboard here.
+
+699
+00:52:49,167 --> 00:52:51,753
+Easy, peasy, Japanese-y.
+
+700
+00:52:51,919 --> 00:52:55,548
+-Any questions?
+-Brooks, how long have you been librarian?
+
+701
+00:52:55,757 --> 00:53:00,762
+Oh... I come here in '05,
+and they made me librarian in 1912.
+
+702
+00:53:02,096 --> 00:53:04,265
+And have you ever had an assistant?
+
+703
+00:53:04,432 --> 00:53:06,934
+No. Not much to it, really.
+
+704
+00:53:07,685 --> 00:53:08,936
+Why me? Why now?
+
+705
+00:53:09,354 --> 00:53:10,646
+I don't know.
+
+706
+00:53:10,855 --> 00:53:13,900
+But it'd be nice to have
+some company down here.
+
+707
+00:53:14,150 --> 00:53:15,943
+Dufresne!
+
+708
+00:53:25,119 --> 00:53:27,455
+That's him. That's the one.
+
+709
+00:53:35,088 --> 00:53:36,255
+I'm Dekins.
+
+710
+00:53:36,631 --> 00:53:38,299
+I was...
+
+711
+00:53:38,966 --> 00:53:42,804
+...thinking about setting up some kind of
+trust fund for my kids' educations.
+
+712
+00:53:45,098 --> 00:53:48,184
+Oh. I see.
+
+713
+00:53:49,977 --> 00:53:51,896
+Well, um...
+
+714
+00:53:53,314 --> 00:53:56,275
+Why don't we have a seat
+and talk it over.
+
+715
+00:53:58,653 --> 00:54:02,448
+Brooks, do you have a piece of paper
+and a pencil?
+
+716
+00:54:13,793 --> 00:54:15,086
+Thanks.
+
+717
+00:54:15,753 --> 00:54:16,838
+So...
+
+718
+00:54:18,589 --> 00:54:20,341
+Mr. Dekins...
+
+719
+00:54:21,175 --> 00:54:23,261
+And then Andy says, "Mr. Dekins...
+
+720
+00:54:23,469 --> 00:54:26,472
+...do you want your sons
+to go to Harvard or Yale?"
+
+721
+00:54:26,681 --> 00:54:27,723
+He didn't say that!
+
+722
+00:54:28,057 --> 00:54:30,560
+As God as my witness!
+
+723
+00:54:30,852 --> 00:54:32,562
+Dekins just blinked for a second...
+
+724
+00:54:32,770 --> 00:54:35,898
+...then he laughed
+and actually shook Andy's hand.
+
+725
+00:54:36,357 --> 00:54:38,693
+-My ass!
+-Shook his hand.
+
+726
+00:54:38,860 --> 00:54:41,737
+I tell you, I near soiled myself!
+
+727
+00:54:41,946 --> 00:54:46,200
+All he needed was a suit and tie
+and a jiggly hula gal on his desk...
+
+728
+00:54:46,409 --> 00:54:49,036
+...he'd have been
+"Mr. Dufresne," if you please.
+
+729
+00:54:49,203 --> 00:54:50,872
+Making a few friends, huh, Andy?
+
+730
+00:54:52,165 --> 00:54:53,833
+I wouldn't say "friends."
+
+731
+00:54:54,041 --> 00:54:57,879
+I'm a convicted murderer
+who provides sound financial planning.
+
+732
+00:54:58,045 --> 00:55:00,381
+It's a wonderful pet to have.
+
+733
+00:55:00,590 --> 00:55:02,383
+Got you out of the laundry, though.
+
+734
+00:55:02,925 --> 00:55:04,844
+It might do more than that.
+
+735
+00:55:05,052 --> 00:55:07,763
+How about expanding the library.
+Get some new books.
+
+736
+00:55:07,972 --> 00:55:10,558
+If you ask for something,
+ask for a pool table.
+
+737
+00:55:11,309 --> 00:55:15,271
+-Right.
+-How do you expect to do that? I mean...
+
+738
+00:55:15,480 --> 00:55:18,441
+...get new books in here,
+"Mr. Dufresne, if you please."
+
+739
+00:55:18,900 --> 00:55:20,401
+I'll ask the warden for funds.
+
+740
+00:55:21,861 --> 00:55:26,115
+Son, son, son, six wardens have been
+through here in my tenure, and I've learned...
+
+741
+00:55:26,365 --> 00:55:28,743
+...one immutable, universal truth:
+
+742
+00:55:28,910 --> 00:55:31,204
+Not one of them born whose asshole...
+
+743
+00:55:31,370 --> 00:55:35,416
+...wouldn't pucker up tighter than
+a snare drum when you ask for funds.
+
+744
+00:55:36,292 --> 00:55:39,212
+-The budget's stretched thin as it is.
+-I see.
+
+745
+00:55:39,420 --> 00:55:42,840
+Perhaps I could write the state senate
+and request funds directly from them.
+
+746
+00:55:43,049 --> 00:55:47,136
+They have only three ways to spend
+the taxpayers' money for prisons:
+
+747
+00:55:47,345 --> 00:55:49,764
+More walls, more bars, more guards.
+
+748
+00:55:49,972 --> 00:55:52,642
+Still, I'd like to try, with permission.
+A letter a week.
+
+749
+00:55:52,850 --> 00:55:55,603
+-They can't ignore me forever.
+-Sure can.
+
+750
+00:55:55,853 --> 00:55:58,523
+But you write your letters
+if it makes you happy.
+
+751
+00:55:58,814 --> 00:56:01,442
+I'll even mail them for you. How's that?
+
+752
+00:56:03,110 --> 00:56:05,905
+<i>So Andy started writing
+a letter a week...</i>
+
+753
+00:56:06,113 --> 00:56:07,698
+<i>...just like he said.</i>
+
+754
+00:56:11,869 --> 00:56:14,497
+<i>And, just like Norton said...</i>
+
+755
+00:56:14,705 --> 00:56:16,165
+<i>...Andy got no answers.</i>
+
+756
+00:56:24,382 --> 00:56:29,303
+<i>The following April, Andy did tax returns
+for half the guards at Shawshank.</i>
+
+757
+00:56:30,638 --> 00:56:32,890
+<i>Year after that, he did them all...</i>
+
+758
+00:56:33,140 --> 00:56:35,059
+<i>...including the warden's.</i>
+
+759
+00:56:36,811 --> 00:56:40,273
+<i>Year after that,
+they rescheduled the intramural season...</i>
+
+760
+00:56:40,481 --> 00:56:42,900
+<i>...to coincide with tax season.</i>
+
+761
+00:56:44,485 --> 00:56:48,948
+<i>The guards on the opposing teams
+all remembered to bring their W-2s.</i>
+
+762
+00:56:49,156 --> 00:56:52,952
+So Moresby Prison issued you a gun,
+but you actually paid for it.
+
+763
+00:56:53,160 --> 00:56:54,870
+Damn right. The holster too.
+
+764
+00:56:55,079 --> 00:56:57,540
+See, that's tax-deductible.
+You can write that off.
+
+765
+00:56:57,748 --> 00:57:00,793
+<i>Yes, sir.
+Andy was a regular cottage industry.</i>
+
+766
+00:57:01,502 --> 00:57:06,007
+<i>In fact, it got so busy at tax time,
+he was allowed a staff.</i>
+
+767
+00:57:06,257 --> 00:57:08,718
+Could you hand me
+a stack of 1040s?
+
+768
+00:57:08,926 --> 00:57:13,764
+<i>Got me out of the wood shop
+a month out of the year, and that was fine.</i>
+
+769
+00:57:15,016 --> 00:57:18,185
+<i>And still, he kept sending those letters.</i>
+
+770
+00:57:21,939 --> 00:57:24,775
+Red. Red. Andy.
+
+771
+00:57:24,942 --> 00:57:25,985
+It's Brooks.
+
+772
+00:57:27,111 --> 00:57:28,613
+Watch the door.
+
+773
+00:57:28,863 --> 00:57:30,197
+Please, Brooks.
+
+774
+00:57:30,364 --> 00:57:32,241
+-Calm the fuck down.
+-Stay back!
+
+775
+00:57:32,700 --> 00:57:34,827
+-Stay back, goddamn it!
+-What's going on?
+
+776
+00:57:34,994 --> 00:57:38,039
+You tell me. One second he's fine,
+then out come the knife.
+
+777
+00:57:38,205 --> 00:57:40,082
+Brooks. We can talk about this, right?
+
+778
+00:57:40,249 --> 00:57:44,086
+There's nothing to talk about.
+I'll cut his fucking throat.
+
+779
+00:57:44,378 --> 00:57:46,088
+What's he done to you?
+
+780
+00:57:46,297 --> 00:57:47,965
+It's what they done!
+
+781
+00:57:48,466 --> 00:57:49,717
+I got no choice.
+
+782
+00:57:50,217 --> 00:57:52,511
+Brooks, you won't hurt Heywood.
+We all know that.
+
+783
+00:57:52,720 --> 00:57:55,181
+-Right, Heywood?
+-Sure. I know that.
+
+784
+00:57:55,389 --> 00:57:58,726
+He's a friend of yours,
+and Brooks is a reasonable man.
+
+785
+00:57:58,893 --> 00:58:00,895
+-Right, guys?
+-Yes.
+
+786
+00:58:01,062 --> 00:58:03,564
+So put the knife down.
+Brooks, look at me.
+
+787
+00:58:03,731 --> 00:58:07,735
+Put the knife down. Brooks.
+
+788
+00:58:07,985 --> 00:58:10,071
+Look at his neck, for God's sake.
+
+789
+00:58:10,821 --> 00:58:13,157
+Look at his neck. He's bleeding.
+
+790
+00:58:14,075 --> 00:58:15,534
+It's the only--
+
+791
+00:58:15,743 --> 00:58:17,787
+It's the only way they'd let me stay.
+
+792
+00:58:18,079 --> 00:58:20,414
+Come on, this is crazy.
+You don't want to do this.
+
+793
+00:58:20,665 --> 00:58:22,750
+Put it--Put it down.
+
+794
+00:58:30,091 --> 00:58:33,010
+Hey. Hey. Take it easy.
+
+795
+00:58:33,678 --> 00:58:35,262
+You'll be all right.
+
+796
+00:58:35,429 --> 00:58:37,890
+Him? What about me?
+
+797
+00:58:38,099 --> 00:58:40,476
+Crazy old fool damn near cut my throat!
+
+798
+00:58:40,685 --> 00:58:42,603
+You've had worse from shaving.
+
+799
+00:58:42,770 --> 00:58:44,522
+What did you do to set him off?
+
+800
+00:58:44,689 --> 00:58:47,316
+Nothing. I come in here to say farewell.
+
+801
+00:58:47,942 --> 00:58:50,611
+Ain't you heard?
+His parole's come through.
+
+802
+00:58:52,780 --> 00:58:55,741
+I just don't understand
+what happened in there, that's all.
+
+803
+00:58:55,908 --> 00:58:58,744
+Old man's crazy as a rat
+in a tin shithouse.
+
+804
+00:58:58,953 --> 00:59:00,830
+Oh, Heywood, that's enough out of you.
+
+805
+00:59:01,038 --> 00:59:03,791
+-Heard he had you shitting in your pants.
+-Fuck you.
+
+806
+00:59:04,041 --> 00:59:05,251
+Knock it off.
+
+807
+00:59:06,210 --> 00:59:07,628
+Brooks ain't no bug.
+
+808
+00:59:07,962 --> 00:59:09,630
+He's just--
+
+809
+00:59:11,465 --> 00:59:13,259
+He's just institutionalized.
+
+810
+00:59:14,635 --> 00:59:16,554
+"Institutionalized," my ass.
+
+811
+00:59:16,762 --> 00:59:20,766
+The man's been in here 50 years,
+Heywood, 50 years!
+
+812
+00:59:20,975 --> 00:59:22,685
+This is all he knows.
+
+813
+00:59:22,893 --> 00:59:25,187
+In here, he's an important man...
+
+814
+00:59:25,396 --> 00:59:26,480
+...an educated man.
+
+815
+00:59:27,314 --> 00:59:29,233
+Outside, he's nothing.
+
+816
+00:59:30,109 --> 00:59:33,612
+Just a used-up con
+with arthritis in both hands.
+
+817
+00:59:33,821 --> 00:59:36,824
+Probably couldn't get a library card
+if he tried.
+
+818
+00:59:37,074 --> 00:59:38,826
+You know what I'm trying to say?
+
+819
+00:59:39,076 --> 00:59:41,996
+I do believe
+you're talking out of your ass.
+
+820
+00:59:43,247 --> 00:59:45,499
+You believe whatever you want, Floyd.
+
+821
+00:59:46,083 --> 00:59:48,502
+But I tell you these walls are funny.
+
+822
+00:59:50,087 --> 00:59:51,756
+First you hate them.
+
+823
+00:59:53,591 --> 00:59:55,509
+Then you get used to them.
+
+824
+00:59:57,428 --> 00:59:59,430
+Enough time passes...
+
+825
+01:00:00,097 --> 01:00:02,099
+...you get so you depend on them.
+
+826
+01:00:03,100 --> 01:00:05,311
+That's "institutionalized."
+
+827
+01:00:05,519 --> 01:00:09,774
+-Shit. I could never get like that.
+-Oh, yeah?
+
+828
+01:00:10,649 --> 01:00:13,152
+Wait till you've been here
+as long as Brooks.
+
+829
+01:00:13,360 --> 01:00:14,945
+Goddamn right.
+
+830
+01:00:17,531 --> 01:00:19,450
+They send you here for life...
+
+831
+01:00:20,117 --> 01:00:22,453
+...that's exactly what they take.
+
+832
+01:00:24,205 --> 01:00:26,207
+Part that counts, anyway.
+
+833
+01:00:33,798 --> 01:00:36,717
+I can't take care of you no more, Jake.
+
+834
+01:00:37,885 --> 01:00:39,553
+You go on now.
+
+835
+01:00:40,805 --> 01:00:42,306
+You're free.
+
+836
+01:00:43,557 --> 01:00:45,142
+You're free.
+
+837
+01:01:01,450 --> 01:01:03,994
+Bye. Joe?
+
+838
+01:01:04,161 --> 01:01:05,830
+Good luck, Brooksie.
+
+839
+01:01:08,123 --> 01:01:10,209
+Take care of yourself, Brooks.
+
+840
+01:01:43,784 --> 01:01:45,286
+<i>Dear fellas:</i>
+
+841
+01:01:45,578 --> 01:01:49,790
+<i>I can't believe how fast things move
+on the outside.</i>
+
+842
+01:01:51,083 --> 01:01:53,752
+Watch it, old-timer!
+Want to get killed?
+
+843
+01:01:54,962 --> 01:01:58,465
+<i>I saw an automobile once
+when I was a kid...</i>
+
+844
+01:01:59,133 --> 01:02:01,552
+<i>...but now they're everywhere.</i>
+
+845
+01:02:05,222 --> 01:02:09,518
+<i>The world went and got itself
+in a big damn hurry.</i>
+
+846
+01:02:25,326 --> 01:02:29,121
+<i>The parole board
+got me into this halfway house...</i>
+
+847
+01:02:29,413 --> 01:02:31,081
+<i>...called "The Brewer"...</i>
+
+848
+01:02:31,290 --> 01:02:32,458
+<i>...and a job...</i>
+
+849
+01:02:32,666 --> 01:02:35,628
+<i>...bagging groceries at the Food-Way.</i>
+
+850
+01:02:37,171 --> 01:02:39,590
+<i>It's hard work and I try to keep up...</i>
+
+851
+01:02:39,798 --> 01:02:42,176
+<i>...but my hands hurt most of the time.</i>
+
+852
+01:02:42,468 --> 01:02:47,348
+Make sure your man double-bags.
+Last time, the bottom near came out.
+
+853
+01:02:47,514 --> 01:02:50,267
+Make sure you double-bag
+like the lady says. Understand?
+
+854
+01:02:50,476 --> 01:02:51,852
+Yes, sir. Surely will.
+
+855
+01:02:52,019 --> 01:02:55,564
+<i>I don't think the store manager
+likes me very much.</i>
+
+856
+01:02:58,567 --> 01:03:02,863
+<i>Sometimes after work,
+I go to the park and feed the birds.</i>
+
+857
+01:03:03,322 --> 01:03:04,823
+<i>I keep thinking...</i>
+
+858
+01:03:05,032 --> 01:03:08,369
+<i>...Jake might just show up
+and say hello.</i>
+
+859
+01:03:08,994 --> 01:03:10,996
+<i>But he never does.</i>
+
+860
+01:03:12,206 --> 01:03:17,044
+<i>I hope, wherever he is, he's doing okay
+and making new friends.</i>
+
+861
+01:03:20,673 --> 01:03:23,384
+<i>I have trouble sleeping at night.</i>
+
+862
+01:03:23,717 --> 01:03:26,971
+<i>I have bad dreams, like I'm falling.</i>
+
+863
+01:03:27,221 --> 01:03:29,473
+<i>I wake up scared.</i>
+
+864
+01:03:29,682 --> 01:03:33,894
+<i>Sometimes it takes me a while
+to remember where I am.</i>
+
+865
+01:03:35,396 --> 01:03:40,317
+<i>Maybe I should get me a gun and rob
+the Food-Way so they'd send me home.</i>
+
+866
+01:03:40,609 --> 01:03:44,947
+<i>I could shoot the manager while
+I was at it. Sort of like a bonus.</i>
+
+867
+01:03:46,615 --> 01:03:50,619
+<i>I guess I'm too old
+for that sort of nonsense anymore.</i>
+
+868
+01:03:50,869 --> 01:03:52,579
+<i>I don't like it here.</i>
+
+869
+01:03:52,788 --> 01:03:56,792
+<i>I'm tired of being afraid all the time.
+I've decided...</i>
+
+870
+01:03:57,626 --> 01:03:59,294
+<i>...not to stay.</i>
+
+871
+01:04:10,222 --> 01:04:12,766
+<i>I doubt they'll kick up any fuss...</i>
+
+872
+01:04:12,975 --> 01:04:16,478
+<i>...not for an old crook like me.</i>
+
+873
+01:05:18,957 --> 01:05:23,212
+"I doubt they'll kick up any fuss,
+not for an old crook like me.
+
+874
+01:05:24,254 --> 01:05:28,092
+P.S. Tell Heywood I'm sorry
+I put a knife to his throat.
+
+875
+01:05:28,300 --> 01:05:30,636
+No hard feelings. Brooks."
+
+876
+01:05:41,105 --> 01:05:43,065
+He should have died in here.
+
+877
+01:05:48,612 --> 01:05:50,052
+What the fuck have you done?
+
+878
+01:05:50,197 --> 01:05:52,866
+It's a goddamn mess,
+I'll tell you that.
+
+879
+01:05:58,413 --> 01:06:02,167
+-What's all this?
+-You tell me. They're addressed to you.
+
+880
+01:06:03,418 --> 01:06:04,753
+Take it.
+
+881
+01:06:13,303 --> 01:06:14,805
+"Dear Mr. Dufresne:
+
+882
+01:06:15,931 --> 01:06:17,891
+In response to your repeated inquiries...
+
+883
+01:06:18,100 --> 01:06:22,396
+...the state has allocated the enclosed
+funds for your library project."
+
+884
+01:06:23,147 --> 01:06:24,982
+This is $200.
+
+885
+01:06:25,190 --> 01:06:29,194
+"In addition, the library district
+has generously responded...
+
+886
+01:06:29,403 --> 01:06:31,947
+...with a donation of used books
+and sundries.
+
+887
+01:06:32,156 --> 01:06:36,285
+We trust this will fill your needs.
+We now consider the matter closed.
+
+888
+01:06:36,493 --> 01:06:38,370
+Please stop sending us letters."
+
+889
+01:06:38,537 --> 01:06:41,206
+I want all this cleared out
+before the warden gets back.
+
+890
+01:06:41,415 --> 01:06:42,583
+Yes, sir.
+
+891
+01:06:46,879 --> 01:06:48,046
+Good for you, Andy.
+
+892
+01:06:50,841 --> 01:06:52,259
+Wow.
+
+893
+01:06:53,343 --> 01:06:55,262
+It only took six years.
+
+894
+01:06:56,847 --> 01:06:59,600
+From now on, I'll write two
+letters a week instead of one.
+
+895
+01:06:59,766 --> 01:07:03,103
+I believe you're crazy enough.
+Get this stuff out...
+
+896
+01:07:03,395 --> 01:07:05,814
+...like he said.
+I've got to pinch a loaf.
+
+897
+01:07:06,023 --> 01:07:07,482
+When I come back...
+
+898
+01:07:07,691 --> 01:07:09,443
+...this is all gone, all right?
+
+899
+01:07:58,200 --> 01:07:59,618
+Do you hear that?
+
+900
+01:09:08,603 --> 01:09:11,815
+Dufresne! Dufresne!
+
+901
+01:09:12,065 --> 01:09:13,567
+Andy, let me out!
+
+902
+01:09:20,449 --> 01:09:25,412
+<i>I have no idea to this day what those
+two Italian ladies were singing about.</i>
+
+903
+01:09:25,704 --> 01:09:27,914
+<i>Truth is, I don't want to know.</i>
+
+904
+01:09:28,123 --> 01:09:30,625
+<i>Some things are best left unsaid.</i>
+
+905
+01:09:34,212 --> 01:09:36,923
+<i>I like to think it was something
+so beautiful...</i>
+
+906
+01:09:37,132 --> 01:09:39,259
+<i>...it can't be expressed in words...</i>
+
+907
+01:09:39,468 --> 01:09:42,387
+<i>...and makes your heart ache
+because of it.</i>
+
+908
+01:09:44,056 --> 01:09:46,558
+<i>I tell you, those voices soared...</i>
+
+909
+01:09:46,808 --> 01:09:51,104
+<i>...higher and farther than anybody
+in a gray place dares to dream.</i>
+
+910
+01:09:51,313 --> 01:09:54,691
+<i>It was like a beautiful bird
+flapped into our drab cage...</i>
+
+911
+01:09:54,900 --> 01:09:57,652
+<i>...and made those walls dissolve away.</i>
+
+912
+01:09:58,111 --> 01:10:00,280
+<i>And for the briefest of moments...</i>
+
+913
+01:10:00,489 --> 01:10:03,492
+<i>...every last man at Shawshank felt free.</i>
+
+914
+01:10:06,078 --> 01:10:08,747
+<i>It pissed the warden off
+something awful.</i>
+
+915
+01:10:10,040 --> 01:10:11,041
+Open the door.
+
+916
+01:10:13,960 --> 01:10:15,712
+Open it up!
+
+917
+01:10:17,005 --> 01:10:19,758
+Dufresne, open this door!
+
+918
+01:10:21,093 --> 01:10:22,302
+Turn that off!
+
+919
+01:10:29,351 --> 01:10:31,812
+I am warning you. Turn that off!
+
+920
+01:10:45,659 --> 01:10:47,577
+Dufresne.
+
+921
+01:10:49,538 --> 01:10:51,081
+You're mine now.
+
+922
+01:10:58,505 --> 01:11:01,758
+<i>Andy got two weeks in the hole
+for that little stunt.</i>
+
+923
+01:11:01,967 --> 01:11:03,552
+On your feet.
+
+924
+01:11:04,719 --> 01:11:07,139
+-Hey, look who's here.
+-Maestro!
+
+925
+01:11:07,305 --> 01:11:08,515
+Hey.
+
+926
+01:11:08,890 --> 01:11:12,561
+You couldn't play something good, huh?
+Like Hank Williams?
+
+927
+01:11:12,894 --> 01:11:15,689
+They broke the door down
+before I could take requests.
+
+928
+01:11:15,897 --> 01:11:19,025
+-Was it worth two weeks?
+-Easiest time I ever did.
+
+929
+01:11:19,234 --> 01:11:21,570
+No such thing as easy time in the hole.
+
+930
+01:11:21,736 --> 01:11:23,447
+A week in the hole is like a year.
+
+931
+01:11:23,655 --> 01:11:26,950
+-Damn straight.
+-I had Mr. Mozart to keep me company.
+
+932
+01:11:27,159 --> 01:11:30,120
+So they let you tote
+that record player down there, huh?
+
+933
+01:11:32,539 --> 01:11:33,915
+It was in here.
+
+934
+01:11:34,749 --> 01:11:36,001
+In here.
+
+935
+01:11:37,127 --> 01:11:39,212
+That's the beauty of music. They...
+
+936
+01:11:39,421 --> 01:11:41,756
+...can't get that from you.
+
+937
+01:11:45,302 --> 01:11:47,679
+Haven't you ever felt
+that way about music?
+
+938
+01:11:49,473 --> 01:11:52,601
+Well, I played a mean harmonica
+as a younger man.
+
+939
+01:11:53,643 --> 01:11:55,353
+Lost interest in it, though.
+
+940
+01:11:55,562 --> 01:11:57,147
+Didn't make much sense in here.
+
+941
+01:11:57,481 --> 01:11:59,483
+Here's where it makes
+the most sense.
+
+942
+01:12:00,025 --> 01:12:02,068
+You need it so you don't forget.
+
+943
+01:12:02,652 --> 01:12:03,945
+Forget?
+
+944
+01:12:04,237 --> 01:12:07,324
+Forget that there are...
+
+945
+01:12:07,532 --> 01:12:08,950
+...places...
+
+946
+01:12:09,451 --> 01:12:13,288
+...in the world
+that aren't made out of stone.
+
+947
+01:12:14,289 --> 01:12:15,790
+There's something...
+
+948
+01:12:16,124 --> 01:12:17,542
+...inside...
+
+949
+01:12:17,792 --> 01:12:19,753
+...that they can't get to...
+
+950
+01:12:19,961 --> 01:12:21,379
+...that they can't touch.
+
+951
+01:12:21,880 --> 01:12:23,298
+That's yours.
+
+952
+01:12:24,841 --> 01:12:26,426
+What are you talking about?
+
+953
+01:12:27,469 --> 01:12:28,720
+Hope.
+
+954
+01:12:29,763 --> 01:12:31,097
+Hope.
+
+955
+01:12:33,058 --> 01:12:35,060
+Let me tell you something, my friend.
+
+956
+01:12:35,852 --> 01:12:38,146
+Hope is a dangerous thing.
+
+957
+01:12:39,314 --> 01:12:41,650
+Hope can drive a man insane.
+
+958
+01:12:42,400 --> 01:12:44,528
+It's got no use on the inside.
+
+959
+01:12:44,736 --> 01:12:46,947
+You'd better get used to that idea.
+
+960
+01:12:49,449 --> 01:12:50,951
+Like Brooks did?
+
+961
+01:13:16,309 --> 01:13:17,310
+Sit down.
+
+962
+01:13:22,649 --> 01:13:25,944
+Says here that you've served
+30 years of a life sentence.
+
+963
+01:13:27,112 --> 01:13:29,155
+You feel you've been rehabilitated?
+
+964
+01:13:29,364 --> 01:13:30,615
+Oh, yes, sir.
+
+965
+01:13:31,866 --> 01:13:33,201
+Without a doubt.
+
+966
+01:13:34,369 --> 01:13:36,788
+I can honestly say I'm a changed man.
+
+967
+01:13:38,790 --> 01:13:40,709
+No danger to society here.
+
+968
+01:13:41,251 --> 01:13:42,794
+God's honest truth.
+
+969
+01:13:45,338 --> 01:13:47,465
+Absolutely rehabilitated.
+
+970
+01:13:57,434 --> 01:13:58,768
+Thirty years.
+
+971
+01:14:00,729 --> 01:14:02,647
+Jesus, when you say it like that...
+
+972
+01:14:03,523 --> 01:14:05,317
+You wonder where it went.
+
+973
+01:14:07,736 --> 01:14:09,904
+I wonder where 10 years went.
+
+974
+01:14:14,868 --> 01:14:15,910
+Here.
+
+975
+01:14:16,369 --> 01:14:19,080
+A little parole-rejection present.
+
+976
+01:14:20,373 --> 01:14:22,042
+Go ahead and open it.
+
+977
+01:14:23,168 --> 01:14:25,211
+Went through one of your competitors.
+
+978
+01:14:25,378 --> 01:14:28,548
+I hope you don't mind.
+I wanted it to be a surprise.
+
+979
+01:14:38,558 --> 01:14:40,060
+It's very pretty, Andy.
+
+980
+01:14:41,770 --> 01:14:42,979
+Thank you.
+
+981
+01:14:45,565 --> 01:14:47,025
+You going to play it?
+
+982
+01:14:51,571 --> 01:14:52,864
+No.
+
+983
+01:14:56,451 --> 01:14:57,869
+Not right now.
+
+984
+01:15:15,553 --> 01:15:16,638
+Roll in!
+
+985
+01:15:52,841 --> 01:15:54,092
+Lights out!
+
+986
+01:16:28,668 --> 01:16:30,837
+<i>Andy was as good as his word.</i>
+
+987
+01:16:31,171 --> 01:16:33,965
+<i>He wrote two letters a week
+instead of one.</i>
+
+988
+01:16:36,009 --> 01:16:40,138
+<i>In 1959, the state senate
+finally clued in to the fact...</i>
+
+989
+01:16:40,346 --> 01:16:43,516
+<i>...they couldn't buy him off
+with just a $200 check.</i>
+
+990
+01:16:43,683 --> 01:16:48,021
+<i>Appropriations Committee
+voted an annual payment of $500...</i>
+
+991
+01:16:48,188 --> 01:16:50,106
+<i>...just to shut him up.</i>
+
+992
+01:16:50,315 --> 01:16:53,318
+<i>And you'd be amazed how far
+Andy could stretch it.</i>
+
+993
+01:16:53,526 --> 01:16:56,446
+<i>He made deals with book clubs,
+charity groups.</i>
+
+994
+01:16:56,654 --> 01:16:59,407
+<i>He bought remaindered books
+by the pound...</i>
+
+995
+01:16:59,908 --> 01:17:01,451
+<i>"Treasure Island."</i>
+
+996
+01:17:01,993 --> 01:17:03,328
+Robert Louis---
+
+997
+01:17:03,536 --> 01:17:04,537
+Stevenson.
+
+998
+01:17:04,746 --> 01:17:06,164
+Fiction, adventure.
+
+999
+01:17:08,708 --> 01:17:09,751
+What's next?
+
+1000
+01:17:09,918 --> 01:17:13,004
+I got here Auto Repair...
+
+1001
+01:17:13,713 --> 01:17:14,881
+...and Soap Carving.
+
+1002
+01:17:15,089 --> 01:17:18,343
+Trade skills and hobbies.
+Under "Educational," behind you.
+
+1003
+01:17:18,551 --> 01:17:20,386
+<i>"Count of Monte Crisco."</i>
+
+1004
+01:17:20,887 --> 01:17:23,181
+That's "Cristo," you dumb-shit.
+
+1005
+01:17:24,265 --> 01:17:25,266
+By Alexandree...
+
+1006
+01:17:25,725 --> 01:17:27,018
+...Dum-ass.
+
+1007
+01:17:27,352 --> 01:17:28,394
+Dumb-ass.
+
+1008
+01:17:30,688 --> 01:17:31,731
+Dumb-ass?
+
+1009
+01:17:34,651 --> 01:17:37,946
+-Dumas. Know what that's about?
+-Huh.
+
+1010
+01:17:38,905 --> 01:17:40,907
+You'd like it. It's about a prison break.
+
+1011
+01:17:41,074 --> 01:17:44,953
+We ought to file that
+under "Educational" too, oughtn't we?
+
+1012
+01:17:45,829 --> 01:17:49,916
+<i>The rest of us did our best
+to pitch in when and where we could.</i>
+
+1013
+01:17:50,500 --> 01:17:52,252
+<i>By the year Kennedy was shot...</i>
+
+1014
+01:17:52,502 --> 01:17:57,006
+<i>...Andy had transformed a storage room
+smelling of turpentine...</i>
+
+1015
+01:17:57,298 --> 01:18:00,426
+<i>...into the best prison library
+in New England...</i>
+
+1016
+01:18:01,094 --> 01:18:04,055
+<i>...complete with a fine selection
+of Hank Williams.</i>
+
+1017
+01:18:11,437 --> 01:18:13,356
+<i>That was also when Warden Norton...</i>
+
+1018
+01:18:13,565 --> 01:18:16,484
+<i>...instituted his famous
+"Inside Out" program.</i>
+
+1019
+01:18:16,943 --> 01:18:19,028
+<i>You may remember reading about it.</i>
+
+1020
+01:18:19,279 --> 01:18:22,365
+<i>It made the papers and got
+his picture in</i> Look <i>magazine.</i>
+
+1021
+01:18:22,574 --> 01:18:23,908
+It's no free ride...
+
+1022
+01:18:24,075 --> 01:18:27,287
+...but rather a genuine
+progressive advance...
+
+1023
+01:18:27,495 --> 01:18:29,998
+...in corrections and rehabilitation.
+
+1024
+01:18:30,331 --> 01:18:32,876
+Our inmates, properly supervised...
+
+1025
+01:18:33,084 --> 01:18:35,712
+...will be put to work
+outside these walls...
+
+1026
+01:18:35,920 --> 01:18:39,007
+...performing all manner
+of public service.
+
+1027
+01:18:39,173 --> 01:18:41,968
+These men can learn the value
+of an honest day's labor...
+
+1028
+01:18:42,176 --> 01:18:45,972
+...while providing a valuable service
+to the community...
+
+1029
+01:18:46,180 --> 01:18:50,894
+...and at a bare minimum of expense
+to Mr. and Mrs. John Q. Taxpayer.
+
+1030
+01:18:51,311 --> 01:18:53,646
+<i>Of course he didn't tell the press...</i>
+
+1031
+01:18:53,855 --> 01:18:57,317
+<i>...that "bare minimum of expense"
+is a fairly loose term.</i>
+
+1032
+01:18:57,525 --> 01:19:00,570
+<i>There are 100 different ways
+to skim off the top.</i>
+
+1033
+01:19:00,778 --> 01:19:03,281
+<i>Men, materials, you name it.</i>
+
+1034
+01:19:03,615 --> 01:19:06,492
+<i>And oh, my Lord,
+how the money rolled in!</i>
+
+1035
+01:19:06,701 --> 01:19:09,245
+-You'll put me out of business.
+-Ned.
+
+1036
+01:19:09,454 --> 01:19:13,875
+With this pool of slave labor,
+you can underbid any contractor in town.
+
+1037
+01:19:14,459 --> 01:19:17,420
+We're providing
+a valuable community service.
+
+1038
+01:19:17,629 --> 01:19:22,967
+That's fine for the papers,
+but I've got a family to feed. Sam.
+
+1039
+01:19:23,968 --> 01:19:25,511
+We go back a long way, Sam.
+
+1040
+01:19:26,804 --> 01:19:31,726
+I need this new highway contract.
+I don't get it and I go under. That's a fact.
+
+1041
+01:19:32,644 --> 01:19:34,437
+You have some of this fine pie...
+
+1042
+01:19:34,687 --> 01:19:38,024
+...my missus made especially for you.
+You think about that.
+
+1043
+01:19:46,282 --> 01:19:48,993
+Ned, I wouldn't worry too much
+about this contract.
+
+1044
+01:19:49,202 --> 01:19:52,288
+It seems to me I already got my boys
+committed elsewhere.
+
+1045
+01:19:54,248 --> 01:19:57,335
+You be sure and thank Maisie
+for this fine pie.
+
+1046
+01:19:58,419 --> 01:20:00,588
+<i>And behind every shady deal...</i>
+
+1047
+01:20:00,922 --> 01:20:03,549
+<i>...behind every dollar earned...</i>
+
+1048
+01:20:03,841 --> 01:20:06,886
+<i>...there was Andy, keeping the books.</i>
+
+1049
+01:20:07,303 --> 01:20:08,554
+Two deposits.
+
+1050
+01:20:08,805 --> 01:20:12,934
+Maine National and New England First.
+Night drops as always, sir.
+
+1051
+01:20:43,131 --> 01:20:47,468
+Get my stuff to the laundry. Two suits
+for dry-clean and a bag of whatnot.
+
+1052
+01:20:47,927 --> 01:20:50,847
+If they over-starch my shirts again,
+they'll hear from me.
+
+1053
+01:20:51,014 --> 01:20:53,016
+-Yes, sir.
+-How do I look?
+
+1054
+01:20:54,058 --> 01:20:56,561
+-Very nice.
+-Big charity to-do up Portland way.
+
+1055
+01:20:56,769 --> 01:20:58,271
+-Governor will be there.
+-Hmm.
+
+1056
+01:20:59,689 --> 01:21:01,149
+You want the rest of this?
+
+1057
+01:21:02,483 --> 01:21:04,444
+Woman can't bake worth shit.
+
+1058
+01:21:05,653 --> 01:21:06,988
+Thank you, sir.
+
+1059
+01:21:09,824 --> 01:21:13,077
+He's got his fingers
+in a lot of pies, from what I hear.
+
+1060
+01:21:13,286 --> 01:21:18,124
+He's got scams you haven't even
+dreamed of. Kickbacks on his kickbacks.
+
+1061
+01:21:18,291 --> 01:21:20,668
+A river of dirty money
+running through here.
+
+1062
+01:21:20,877 --> 01:21:24,714
+Sooner or later, he'll have to
+explain where it came from.
+
+1063
+01:21:24,922 --> 01:21:26,674
+That's where I come in.
+
+1064
+01:21:27,300 --> 01:21:29,594
+I channel it. Filter it. Funnel it.
+
+1065
+01:21:29,802 --> 01:21:32,638
+Stocks, securities,
+tax-free municipals.
+
+1066
+01:21:32,972 --> 01:21:36,476
+I send it out into the real world,
+and when it comes back...
+
+1067
+01:21:36,684 --> 01:21:39,645
+-Clean as a virgin's honeypot, huh?
+-Cleaner.
+
+1068
+01:21:40,271 --> 01:21:43,858
+By the time Norton retires,
+I'll have made him a millionaire.
+
+1069
+01:21:46,194 --> 01:21:50,531
+If they ever catch on, he'll wind up
+in here wearing a number himself.
+
+1070
+01:21:50,823 --> 01:21:53,493
+I thought you had
+more faith in me than that.
+
+1071
+01:21:53,701 --> 01:21:56,746
+I know you're good,
+but all that paper leaves a trail.
+
+1072
+01:21:57,121 --> 01:21:58,956
+Now anybody gets curious--
+
+1073
+01:21:59,123 --> 01:22:01,542
+FBI, IRS, whatever--
+
+1074
+01:22:02,001 --> 01:22:03,294
+--it'll lead to somebody.
+
+1075
+01:22:03,503 --> 01:22:07,340
+Sure it is, but not to me,
+and certainly not to the warden.
+
+1076
+01:22:11,719 --> 01:22:12,720
+All right, who?
+
+1077
+01:22:12,887 --> 01:22:14,514
+Randall Stevens.
+
+1078
+01:22:15,014 --> 01:22:16,015
+Who?
+
+1079
+01:22:16,182 --> 01:22:18,184
+The "silent" silent partner.
+
+1080
+01:22:18,392 --> 01:22:21,479
+He's the guilty one,
+the man with the bank accounts.
+
+1081
+01:22:21,687 --> 01:22:23,856
+It's where the filtering
+process starts.
+
+1082
+01:22:24,023 --> 01:22:26,901
+They trace anything,
+it'll just lead to him.
+
+1083
+01:22:27,527 --> 01:22:28,736
+But who is he?
+
+1084
+01:22:28,945 --> 01:22:32,907
+He's a phantom, an apparition.
+Second cousin to Harvey the Rabbit.
+
+1085
+01:22:34,033 --> 01:22:35,201
+I conjured him...
+
+1086
+01:22:35,368 --> 01:22:36,744
+...out of thin air.
+
+1087
+01:22:37,537 --> 01:22:40,289
+He doesn't exist, except on paper.
+
+1088
+01:22:43,376 --> 01:22:45,711
+Andy, you can't just make a person up.
+
+1089
+01:22:45,920 --> 01:22:49,048
+Sure you can,
+if you know how the system works.
+
+1090
+01:22:49,549 --> 01:22:52,385
+It's amazing what you
+can accomplish by mail.
+
+1091
+01:22:52,718 --> 01:22:55,346
+Mr. Stevens has a birth certificate...
+
+1092
+01:22:55,555 --> 01:22:57,682
+...driver's license, Social Security number.
+
+1093
+01:22:57,932 --> 01:22:58,933
+You're shitting me.
+
+1094
+01:22:59,100 --> 01:23:02,520
+If they trace any accounts,
+they'll wind up chasing...
+
+1095
+01:23:02,728 --> 01:23:04,438
+...a figment of my imagination.
+
+1096
+01:23:04,647 --> 01:23:06,649
+Well, I'll be damned!
+
+1097
+01:23:07,984 --> 01:23:09,735
+Did I say you were good?
+
+1098
+01:23:10,069 --> 01:23:11,737
+Shit, you are Rembrandt.
+
+1099
+01:23:12,446 --> 01:23:14,198
+The funny thing is...
+
+1100
+01:23:14,407 --> 01:23:18,494
+...on the outside, I was an honest man,
+straight as an arrow.
+
+1101
+01:23:18,911 --> 01:23:21,247
+I had to come to prison to be a crook.
+
+1102
+01:23:30,089 --> 01:23:31,424
+Ever bother you?
+
+1103
+01:23:32,842 --> 01:23:35,928
+I don't run the scams.
+I just process the profits.
+
+1104
+01:23:36,179 --> 01:23:38,181
+A fine line, maybe...
+
+1105
+01:23:38,764 --> 01:23:40,808
+...but I also built that library...
+
+1106
+01:23:41,017 --> 01:23:44,061
+...and used it to help guys
+get their high school diploma.
+
+1107
+01:23:44,270 --> 01:23:46,480
+Why do you think
+he lets me do all that?
+
+1108
+01:23:46,689 --> 01:23:48,900
+Keep you happy and doing the laundry.
+
+1109
+01:23:49,108 --> 01:23:50,568
+Money instead of sheets.
+
+1110
+01:23:50,943 --> 01:23:53,487
+Well, I work cheap.
+That's the tradeoff.
+
+1111
+01:24:10,796 --> 01:24:13,424
+<i>Tommy Williams came
+to Shawshank in 1965...</i>
+
+1112
+01:24:13,633 --> 01:24:15,885
+<i>...on a two-year stretch for B and E.</i>
+
+1113
+01:24:16,135 --> 01:24:18,471
+<i>That's breaking and entering to you.</i>
+
+1114
+01:24:18,721 --> 01:24:22,975
+<i>Cops caught him sneaking TV sets
+out the back door of a JC Penney.</i>
+
+1115
+01:24:23,392 --> 01:24:24,685
+<i>Young punk.</i>
+
+1116
+01:24:24,894 --> 01:24:26,520
+<i>Mr. Rock 'n' Roll...</i>
+
+1117
+01:24:26,729 --> 01:24:28,272
+<i>...cocky as hell.</i>
+
+1118
+01:24:28,481 --> 01:24:30,858
+Come on, old boys.
+Moving like molasses!
+
+1119
+01:24:31,108 --> 01:24:32,860
+Making me look bad.
+
+1120
+01:24:33,069 --> 01:24:34,862
+<i>We liked him immediately.</i>
+
+1121
+01:24:35,112 --> 01:24:38,824
+I'm backing out the door
+and I got the TV like this.
+
+1122
+01:24:39,158 --> 01:24:42,787
+A big old thing. I couldn't see shit.
+Then I hear this voice.
+
+1123
+01:24:43,412 --> 01:24:45,373
+"Freeze, kid, hands in the air."
+
+1124
+01:24:45,581 --> 01:24:50,044
+I was standing there, holding onto
+that TV. Finally the voice says:
+
+1125
+01:24:50,253 --> 01:24:54,048
+"You hear what I said, boy?"
+I say, "Yes, sir. I sure did.
+
+1126
+01:24:54,257 --> 01:24:57,718
+But if I drop this, you get me
+on destruction of property too."
+
+1127
+01:25:02,181 --> 01:25:04,850
+Hey, you done some stretch
+in Cashman, right?
+
+1128
+01:25:05,017 --> 01:25:08,980
+Yeah, that was an easy piece of time,
+let me tell you.
+
+1129
+01:25:09,230 --> 01:25:11,190
+Weekend furloughs. Work programs.
+
+1130
+01:25:11,857 --> 01:25:13,150
+Not like here.
+
+1131
+01:25:13,317 --> 01:25:15,069
+Sounds like you done time all over.
+
+1132
+01:25:15,528 --> 01:25:17,905
+Yeah, I've been in and out since I was 13.
+
+1133
+01:25:18,114 --> 01:25:20,324
+You name it, chances are I've been there.
+
+1134
+01:25:20,533 --> 01:25:23,202
+Perhaps you should try a new profession.
+
+1135
+01:25:24,620 --> 01:25:26,205
+What I mean is...
+
+1136
+01:25:26,539 --> 01:25:29,500
+...you're not a very good thief.
+You should try something else.
+
+1137
+01:25:30,209 --> 01:25:33,421
+Yeah, what the hell
+you know about it, Capone?
+
+1138
+01:25:33,838 --> 01:25:35,423
+What are you in for?
+
+1139
+01:25:35,715 --> 01:25:36,716
+Me?
+
+1140
+01:25:39,135 --> 01:25:40,803
+A lawyer fucked me.
+
+1141
+01:25:44,724 --> 01:25:47,685
+Everybody's innocent in here.
+Don't you know that?
+
+1142
+01:25:55,568 --> 01:25:59,989
+<i>As it turned out, Tommy had himself
+a young wife and a new baby girl.</i>
+
+1143
+01:26:00,573 --> 01:26:02,700
+<i>Maybe he thought of them
+on the streets...</i>
+
+1144
+01:26:02,908 --> 01:26:05,411
+<i>...or his child growing up
+not knowing her daddy.</i>
+
+1145
+01:26:05,703 --> 01:26:07,079
+<i>Whatever it was...</i>
+
+1146
+01:26:07,413 --> 01:26:09,832
+<i>...something lit a fire
+under that boy's ass.</i>
+
+1147
+01:26:13,669 --> 01:26:16,547
+Thought I might try for
+my high school equivalency.
+
+1148
+01:26:16,756 --> 01:26:19,258
+Hear you helped
+a couple of fellas with that.
+
+1149
+01:26:20,593 --> 01:26:22,845
+I don't waste time with losers, Tommy.
+
+1150
+01:26:24,263 --> 01:26:26,766
+I ain't no goddamn loser.
+
+1151
+01:26:28,476 --> 01:26:30,311
+-You mean that?
+-Yeah.
+
+1152
+01:26:31,979 --> 01:26:33,439
+You really mean that?
+
+1153
+01:26:34,440 --> 01:26:35,816
+Yes, sir, I do.
+
+1154
+01:26:36,025 --> 01:26:37,985
+Good. Because if we do this...
+
+1155
+01:26:38,194 --> 01:26:42,156
+...we do it all the way,
+a hundred percent, nothing half-assed.
+
+1156
+01:26:42,406 --> 01:26:44,200
+Thing is, see...
+
+1157
+01:26:45,451 --> 01:26:46,994
+...I don't read so good.
+
+1158
+01:26:48,162 --> 01:26:49,288
+"Well."
+
+1159
+01:26:51,290 --> 01:26:53,000
+You don't read...
+
+1160
+01:26:53,250 --> 01:26:54,794
+...so well.
+
+1161
+01:26:57,129 --> 01:26:58,631
+We'll get to that.
+
+1162
+01:27:03,052 --> 01:27:05,179
+<i>So Andy took Tommy
+under his wing.</i>
+
+1163
+01:27:05,388 --> 01:27:08,015
+<i>Started walking him through his ABC's.</i>
+
+1164
+01:27:10,142 --> 01:27:12,353
+<i>Tommy took to it pretty well too.</i>
+
+1165
+01:27:12,645 --> 01:27:15,398
+<i>Boy found brains he never knew he had.</i>
+
+1166
+01:27:17,733 --> 01:27:21,153
+<i>Before long, Andy started him
+on his course requirements.</i>
+
+1167
+01:27:21,362 --> 01:27:23,030
+<i>He really liked the kid.</i>
+
+1168
+01:27:23,239 --> 01:27:26,826
+<i>Gave him a thrill to help a youngster
+crawl off the shit heap.</i>
+
+1169
+01:27:27,326 --> 01:27:29,578
+<i>But that wasn't the only reason.</i>
+
+1170
+01:27:30,287 --> 01:27:32,498
+<i>Prison time is slow time.</i>
+
+1171
+01:27:32,957 --> 01:27:35,543
+<i>So you do what you can to keep going.</i>
+
+1172
+01:27:35,876 --> 01:27:37,962
+<i>Some fellas collect stamps.</i>
+
+1173
+01:27:38,337 --> 01:27:40,840
+<i>Others build matchstick houses.</i>
+
+1174
+01:27:41,424 --> 01:27:44,093
+<i>Andy built a library.</i>
+
+1175
+01:27:44,593 --> 01:27:46,512
+<i>Now he needed a new project.</i>
+
+1176
+01:27:47,388 --> 01:27:48,889
+<i>Tommy was it.</i>
+
+1177
+01:27:49,515 --> 01:27:53,519
+<i>It was the same reason he spent years
+shaping and polishing those rocks.</i>
+
+1178
+01:27:54,061 --> 01:27:57,314
+<i>The same reason he hung
+his fantasy girlies on the wall.</i>
+
+1179
+01:27:58,190 --> 01:27:59,483
+<i>In prison...</i>
+
+1180
+01:27:59,733 --> 01:28:03,487
+<i>...a man will do most anything
+to keep his mind occupied.</i>
+
+1181
+01:28:04,238 --> 01:28:09,118
+<i>By 1966, right about the time Tommy
+was getting ready to take his exams...</i>
+
+1182
+01:28:09,368 --> 01:28:11,537
+<i>...it was lovely Raquel.</i>
+
+1183
+01:28:28,095 --> 01:28:29,096
+Time.
+
+1184
+01:28:35,144 --> 01:28:36,395
+Well?
+
+1185
+01:28:37,730 --> 01:28:39,899
+Well, it's for shit.
+
+1186
+01:28:40,399 --> 01:28:43,235
+I wasted a whole year
+of my time with this bullshit.
+
+1187
+01:28:43,402 --> 01:28:44,904
+It's probably not that bad.
+
+1188
+01:28:45,112 --> 01:28:49,366
+Yeah, I didn't get a thing right.
+It might as well have been in Chinese.
+
+1189
+01:28:49,575 --> 01:28:51,285
+Let's see how the score comes out.
+
+1190
+01:28:51,494 --> 01:28:54,455
+Yeah, well, I'll tell you
+how the goddamn score comes out.
+
+1191
+01:28:56,415 --> 01:28:57,750
+Two points, right there!
+
+1192
+01:28:57,958 --> 01:28:59,543
+There's your goddamn score!
+
+1193
+01:28:59,752 --> 01:29:03,464
+Goddamn cats crawling up trees,
+5 times 5 is 25...
+
+1194
+01:29:04,423 --> 01:29:06,050
+Fuck this place!
+
+1195
+01:29:06,258 --> 01:29:07,426
+Fuck it!
+
+1196
+01:29:26,570 --> 01:29:27,821
+I feel bad.
+
+1197
+01:29:28,030 --> 01:29:29,240
+I let him down.
+
+1198
+01:29:29,448 --> 01:29:31,158
+That's crap, kid.
+
+1199
+01:29:31,367 --> 01:29:32,701
+He's proud of you.
+
+1200
+01:29:33,035 --> 01:29:35,913
+We're old friends,
+I know him as good as anybody.
+
+1201
+01:29:36,121 --> 01:29:37,665
+Smart fellow, ain't he?
+
+1202
+01:29:37,873 --> 01:29:41,001
+Smart as they come.
+He was a banker on the outside.
+
+1203
+01:29:41,210 --> 01:29:43,462
+What's he in here for anyway?
+
+1204
+01:29:43,754 --> 01:29:44,755
+Murder.
+
+1205
+01:29:46,215 --> 01:29:49,009
+-The hell, you say.
+-Hmm.
+
+1206
+01:29:49,718 --> 01:29:52,054
+You wouldn't think it
+to look at the guy.
+
+1207
+01:29:53,305 --> 01:29:57,393
+Caught his wife in bed
+with some golf pro. Greased them both.
+
+1208
+01:30:05,401 --> 01:30:06,777
+What?
+
+1209
+01:30:07,736 --> 01:30:10,322
+About four years ago...
+
+1210
+01:30:10,573 --> 01:30:13,826
+...I was in Thomaston
+on a two-to-three stretch.
+
+1211
+01:30:14,326 --> 01:30:15,619
+I stole a car.
+
+1212
+01:30:15,995 --> 01:30:17,997
+It was a dumb-fuck thing to do.
+
+1213
+01:30:18,664 --> 01:30:20,874
+About six months left to go...
+
+1214
+01:30:21,166 --> 01:30:23,085
+...I get a new cellmate in.
+
+1215
+01:30:23,794 --> 01:30:25,421
+Elmo Blatch.
+
+1216
+01:30:26,130 --> 01:30:27,464
+Big, twitchy fucker.
+
+1217
+01:30:28,340 --> 01:30:31,844
+Kind of roomie you pray you don't get.
+You know what I'm saying?
+
+1218
+01:30:32,011 --> 01:30:34,763
+Six-to-twelve, armed burglary.
+
+1219
+01:30:35,014 --> 01:30:37,308
+Said he pulled hundreds of jobs.
+
+1220
+01:30:37,516 --> 01:30:42,438
+Hard to believe, high-strung as he was.
+You cut a loud fart, he jumped three feet.
+
+1221
+01:30:43,522 --> 01:30:48,152
+Talked all the time too.
+That's the other thing. He never shut up.
+
+1222
+01:30:48,360 --> 01:30:49,987
+Places he'd been in...
+
+1223
+01:30:50,279 --> 01:30:53,365
+...jobs he'd pulled, women he fucked.
+
+1224
+01:30:53,574 --> 01:30:55,784
+Even people he killed.
+
+1225
+01:30:57,036 --> 01:30:59,830
+People who "gave him shit."
+
+1226
+01:31:00,456 --> 01:31:02,041
+That's how he put it.
+
+1227
+01:31:03,208 --> 01:31:06,712
+So one night, like a joke...
+
+1228
+01:31:07,796 --> 01:31:11,300
+...I say to him,
+"Yeah, Elmo, who did you kill?"
+
+1229
+01:31:11,550 --> 01:31:12,676
+So he says:
+
+1230
+01:31:12,843 --> 01:31:16,805
+I got me this job one time,
+busing tables at a country club...
+
+1231
+01:31:17,473 --> 01:31:21,393
+...so I could case all these big
+rich pricks that come in.
+
+1232
+01:31:23,479 --> 01:31:25,481
+So I pick out this guy...
+
+1233
+01:31:26,398 --> 01:31:27,941
+...go in one night...
+
+1234
+01:31:28,150 --> 01:31:29,902
+...and do his place.
+
+1235
+01:31:31,320 --> 01:31:32,655
+He wakes up...
+
+1236
+01:31:33,405 --> 01:31:35,157
+...and gives me shit.
+
+1237
+01:31:36,241 --> 01:31:37,910
+So I killed him.
+
+1238
+01:31:39,662 --> 01:31:42,498
+Him and this tasty bitch he was with.
+
+1239
+01:31:43,916 --> 01:31:46,168
+And that's the best part.
+
+1240
+01:31:46,835 --> 01:31:49,296
+She's fucking this prick, see...
+
+1241
+01:31:49,505 --> 01:31:52,591
+...this golf pro,
+but she's married to some other guy.
+
+1242
+01:31:53,175 --> 01:31:55,761
+Some hotshot banker.
+
+1243
+01:31:57,179 --> 01:31:59,682
+And he's the one they pinned it on.
+
+1244
+01:32:11,151 --> 01:32:15,030
+I have to say that's
+the most amazing story I ever heard.
+
+1245
+01:32:16,281 --> 01:32:18,784
+What amazes me most
+is you'd be taken in by it.
+
+1246
+01:32:19,535 --> 01:32:20,536
+Sir?
+
+1247
+01:32:21,453 --> 01:32:26,333
+Well, it's obvious this fellow Williams
+is impressed with you.
+
+1248
+01:32:26,959 --> 01:32:30,879
+He hears your tale of woe
+and naturally wants to cheer you up.
+
+1249
+01:32:31,088 --> 01:32:33,257
+He's young, not terribly bright.
+
+1250
+01:32:33,799 --> 01:32:37,219
+It's not surprising he wouldn't
+know what a state he put you in.
+
+1251
+01:32:37,636 --> 01:32:39,179
+Sir, he's telling the truth.
+
+1252
+01:32:39,972 --> 01:32:44,143
+Well, let's say for the moment
+this Blatch does exist.
+
+1253
+01:32:44,393 --> 01:32:49,022
+You think he'd just fall to his knees
+and cry, "Yes, I did it. I confess.
+
+1254
+01:32:49,231 --> 01:32:51,942
+Oh, and by the way,
+add a life term to my sentence."
+
+1255
+01:32:52,151 --> 01:32:55,028
+With Tommy's testimony,
+I can get a new trial.
+
+1256
+01:32:55,154 --> 01:32:57,614
+That's assuming Blatch is even still there.
+
+1257
+01:32:57,823 --> 01:32:59,783
+Chances are, he'd be released by now.
+
+1258
+01:32:59,992 --> 01:33:04,580
+They'd have his last known address,
+names of relatives. It's a chance, isn't it?
+
+1259
+01:33:06,915 --> 01:33:08,667
+How can you be so obtuse?
+
+1260
+01:33:09,585 --> 01:33:10,836
+What?
+
+1261
+01:33:12,087 --> 01:33:13,547
+What did you call me?
+
+1262
+01:33:13,756 --> 01:33:15,507
+Obtuse. Is it deliberate?
+
+1263
+01:33:15,841 --> 01:33:17,342
+You're forgetting yourself.
+
+1264
+01:33:17,676 --> 01:33:20,637
+The country club
+will have his old timecards.
+
+1265
+01:33:20,846 --> 01:33:23,599
+Records, W-2s with his name on them.
+
+1266
+01:33:23,807 --> 01:33:26,518
+If you want to indulge this fantasy,
+it's your business.
+
+1267
+01:33:26,685 --> 01:33:29,313
+Don't make it mine.
+This meeting is over.
+
+1268
+01:33:29,521 --> 01:33:32,107
+Sir, if I got out, I'd never mention
+what happens here.
+
+1269
+01:33:32,733 --> 01:33:35,694
+I'd be as indictable as you
+for laundering that money.
+
+1270
+01:33:36,737 --> 01:33:40,532
+Don't ever mention money to me again,
+you sorry son of a bitch!
+
+1271
+01:33:40,699 --> 01:33:42,367
+Not in this office...
+
+1272
+01:33:42,576 --> 01:33:44,536
+...not anywhere. Get in here, now!
+
+1273
+01:33:44,745 --> 01:33:47,456
+I just wanted to put you at ease,
+that's all.
+
+1274
+01:33:48,081 --> 01:33:50,209
+-Solitary. A month.
+-Yes, sir.
+
+1275
+01:33:50,375 --> 01:33:53,170
+-What's the matter with you?
+-Get him out of here.
+
+1276
+01:33:53,378 --> 01:33:56,924
+This is my chance to get out!
+It's my life! Don't you understand?!
+
+1277
+01:33:57,132 --> 01:33:59,218
+Get him out!
+
+1278
+01:34:00,969 --> 01:34:02,930
+A month in the hole.
+
+1279
+01:34:03,138 --> 01:34:05,849
+That's the longest stretch
+I ever heard of.
+
+1280
+01:34:06,058 --> 01:34:07,351
+It's all my fault.
+
+1281
+01:34:07,559 --> 01:34:09,144
+Oh, bullshit.
+
+1282
+01:34:09,812 --> 01:34:12,523
+You didn't pull the trigger
+or convict him.
+
+1283
+01:34:12,731 --> 01:34:15,108
+Are you saying Andy is innocent?
+
+1284
+01:34:15,317 --> 01:34:17,361
+I mean, for real innocent?
+
+1285
+01:34:17,569 --> 01:34:18,904
+It looks that way.
+
+1286
+01:34:19,321 --> 01:34:21,240
+Sweet Jesus.
+
+1287
+01:34:21,490 --> 01:34:23,325
+How long has he been here now?
+
+1288
+01:34:23,742 --> 01:34:26,995
+1947. What is that? Nineteen years.
+
+1289
+01:34:27,246 --> 01:34:29,832
+-Williams, Thomas.
+-Yeah, over here.
+
+1290
+01:34:35,671 --> 01:34:36,839
+What you got?
+
+1291
+01:34:37,464 --> 01:34:38,799
+Board of Education.
+
+1292
+01:34:39,007 --> 01:34:40,551
+That son of a bitch mailed it.
+
+1293
+01:34:40,759 --> 01:34:44,721
+You going to open it or stand there
+with your thumb up your butt?
+
+1294
+01:34:44,930 --> 01:34:47,099
+Thumb up my butt sounds better.
+
+1295
+01:34:47,599 --> 01:34:50,435
+Hey, Skeet, come on.
+Give me that, you shithead.
+
+1296
+01:34:51,270 --> 01:34:52,604
+Floyd, come on.
+
+1297
+01:34:55,190 --> 01:34:56,942
+Hey, Red.
+
+1298
+01:34:58,026 --> 01:35:00,445
+Will you throw that away, please?
+
+1299
+01:35:06,034 --> 01:35:07,786
+Well, shit.
+
+1300
+01:35:20,465 --> 01:35:23,260
+The kid passed. C-plus average.
+
+1301
+01:35:23,468 --> 01:35:25,554
+Thought you'd like to know.
+
+1302
+01:35:41,778 --> 01:35:43,238
+Warden wants to talk.
+
+1303
+01:35:57,002 --> 01:35:58,045
+Out here?
+
+1304
+01:35:58,253 --> 01:36:00,505
+That's what the man said.
+
+1305
+01:36:16,605 --> 01:36:20,067
+-Warden?
+-Tommy?
+
+1306
+01:36:25,989 --> 01:36:31,703
+Tommy, I'm asking you to keep
+this conversation just between us.
+
+1307
+01:36:33,205 --> 01:36:35,457
+I feel awkward enough as it is.
+
+1308
+01:36:53,892 --> 01:36:55,978
+We got a situation here.
+
+1309
+01:36:56,853 --> 01:36:58,939
+I think you can appreciate that.
+
+1310
+01:36:59,147 --> 01:37:00,399
+Yes, sir.
+
+1311
+01:37:00,649 --> 01:37:02,067
+I sure can.
+
+1312
+01:37:02,317 --> 01:37:06,363
+I tell you, son, this thing really
+came along and knocked my wind out.
+
+1313
+01:37:07,823 --> 01:37:10,409
+It's got me up nights. That's the truth.
+
+1314
+01:37:12,661 --> 01:37:14,496
+The right thing to do...
+
+1315
+01:37:16,164 --> 01:37:19,918
+...sometimes it's hard to know
+what that is.
+
+1316
+01:37:20,919 --> 01:37:22,337
+Do you understand?
+
+1317
+01:37:24,631 --> 01:37:26,258
+I need your help, son.
+
+1318
+01:37:27,676 --> 01:37:29,845
+If I'm going to move on this...
+
+1319
+01:37:30,178 --> 01:37:33,348
+...there can't be
+the least little shred of doubt.
+
+1320
+01:37:34,099 --> 01:37:35,142
+I have to know...
+
+1321
+01:37:35,308 --> 01:37:37,978
+...if what you told Dufresne
+was the truth.
+
+1322
+01:37:38,186 --> 01:37:39,312
+Yes, sir.
+
+1323
+01:37:39,521 --> 01:37:40,772
+Absolutely.
+
+1324
+01:37:41,273 --> 01:37:44,276
+Would you be willing to swear
+before a judge and jury...
+
+1325
+01:37:44,443 --> 01:37:46,445
+...with your hand on the Good Book...
+
+1326
+01:37:46,653 --> 01:37:49,322
+...and take an oath
+before Almighty God himself?
+
+1327
+01:37:49,531 --> 01:37:51,324
+Just give me that chance.
+
+1328
+01:37:55,620 --> 01:37:56,955
+That's what I thought.
+
+1329
+01:38:44,002 --> 01:38:45,921
+I'm sure by now you've heard.
+
+1330
+01:38:47,672 --> 01:38:48,715
+Terrible thing.
+
+1331
+01:38:50,342 --> 01:38:51,802
+A man that young...
+
+1332
+01:38:52,135 --> 01:38:54,721
+...less than a year to go,
+trying to escape.
+
+1333
+01:38:55,263 --> 01:38:57,766
+Broke Captain Hadley's heart
+to shoot him.
+
+1334
+01:38:58,517 --> 01:39:00,018
+Truly, it did.
+
+1335
+01:39:03,021 --> 01:39:05,440
+We just have to put it behind us.
+
+1336
+01:39:07,109 --> 01:39:08,360
+Move on.
+
+1337
+01:39:09,945 --> 01:39:11,446
+I'm done.
+
+1338
+01:39:12,739 --> 01:39:14,366
+Everything stops.
+
+1339
+01:39:16,368 --> 01:39:18,703
+Get someone else to run your scams.
+
+1340
+01:39:19,955 --> 01:39:21,790
+Nothing stops.
+
+1341
+01:39:23,125 --> 01:39:24,501
+Nothing.
+
+1342
+01:39:27,712 --> 01:39:30,799
+Or you will do the hardest time there is.
+
+1343
+01:39:31,216 --> 01:39:33,552
+No more protection from the guards.
+
+1344
+01:39:33,718 --> 01:39:38,640
+I'll pull you out of that one-bunk Hilton
+and cast you down with the sodomites.
+
+1345
+01:39:40,058 --> 01:39:42,477
+You'll think you've been
+fucked by a train.
+
+1346
+01:39:43,895 --> 01:39:45,397
+And the library?
+
+1347
+01:39:46,064 --> 01:39:47,065
+Gone.
+
+1348
+01:39:47,649 --> 01:39:50,235
+Sealed off, brick by brick.
+
+1349
+01:39:50,694 --> 01:39:53,363
+We'll have us a little
+book barbecue in the yard.
+
+1350
+01:39:53,572 --> 01:39:55,699
+They'll see the flames for miles.
+
+1351
+01:39:55,907 --> 01:39:58,743
+We'll dance around it like wild Injuns.
+
+1352
+01:39:59,995 --> 01:40:02,998
+You understand me? Catching my drift?
+
+1353
+01:40:06,751 --> 01:40:08,587
+Or am I being obtuse?
+
+1354
+01:40:20,390 --> 01:40:23,018
+Give him another month
+to think about it.
+
+1355
+01:41:09,773 --> 01:41:12,817
+My wife used to say
+I'm a hard man to know.
+
+1356
+01:41:13,652 --> 01:41:15,487
+Like a closed book.
+
+1357
+01:41:16,279 --> 01:41:18,323
+Complained about it all the time.
+
+1358
+01:41:19,241 --> 01:41:20,825
+She was beautiful.
+
+1359
+01:41:23,203 --> 01:41:25,038
+God, I loved her.
+
+1360
+01:41:28,458 --> 01:41:30,669
+I didn't know how to show it, that's all.
+
+1361
+01:41:33,421 --> 01:41:35,090
+I killed her, Red.
+
+1362
+01:41:36,967 --> 01:41:38,760
+I didn't pull the trigger...
+
+1363
+01:41:40,178 --> 01:41:41,930
+...but I drove her away.
+
+1364
+01:41:43,431 --> 01:41:46,142
+That's why she died, because of me...
+
+1365
+01:41:46,309 --> 01:41:47,686
+...the way I am.
+
+1366
+01:41:56,695 --> 01:41:58,530
+That don't make you a murderer.
+
+1367
+01:42:01,908 --> 01:42:03,702
+Bad husband, maybe.
+
+1368
+01:42:07,330 --> 01:42:10,583
+Feel bad about it if you want,
+but you didn't pull the trigger.
+
+1369
+01:42:10,792 --> 01:42:12,127
+No, I didn't.
+
+1370
+01:42:12,544 --> 01:42:14,462
+Somebody else did.
+
+1371
+01:42:15,714 --> 01:42:17,799
+And I wound up in here.
+
+1372
+01:42:20,260 --> 01:42:21,886
+Bad luck, I guess.
+
+1373
+01:42:24,764 --> 01:42:28,518
+-Yeah.
+-It floats around.
+
+1374
+01:42:29,561 --> 01:42:31,771
+It's got to land on somebody.
+
+1375
+01:42:32,689 --> 01:42:34,566
+It was my turn, that's all.
+
+1376
+01:42:35,275 --> 01:42:38,069
+I was in the path of the tornado.
+
+1377
+01:42:43,992 --> 01:42:47,954
+I just didn't expect the storm
+would last as long as it has.
+
+1378
+01:42:52,292 --> 01:42:54,002
+Think you'll ever get out of here?
+
+1379
+01:42:55,253 --> 01:42:56,671
+Me?
+
+1380
+01:42:59,257 --> 01:43:00,592
+Yeah.
+
+1381
+01:43:01,593 --> 01:43:03,887
+One day, when I got
+a long, white beard...
+
+1382
+01:43:04,095 --> 01:43:08,183
+...and two or three marbles rolling
+around upstairs, they'll let me out.
+
+1383
+01:43:09,267 --> 01:43:10,935
+I tell you where I'd go.
+
+1384
+01:43:12,395 --> 01:43:14,105
+Zihuatanejo.
+
+1385
+01:43:14,939 --> 01:43:16,107
+Say what?
+
+1386
+01:43:16,441 --> 01:43:18,276
+Zihuatanejo.
+
+1387
+01:43:19,194 --> 01:43:20,862
+It's in Mexico.
+
+1388
+01:43:22,238 --> 01:43:24,366
+A little place on the Pacific Ocean.
+
+1389
+01:43:25,492 --> 01:43:28,286
+You know what the Mexicans say
+about the Pacific?
+
+1390
+01:43:28,453 --> 01:43:32,123
+-No.
+-They say it has no memory.
+
+1391
+01:43:34,084 --> 01:43:36,753
+That's where I want to live
+the rest of my life.
+
+1392
+01:43:38,380 --> 01:43:40,882
+A warm place with no memory.
+
+1393
+01:43:44,135 --> 01:43:46,054
+Open up a little hotel...
+
+1394
+01:43:47,764 --> 01:43:49,265
+...right on the beach.
+
+1395
+01:43:49,849 --> 01:43:52,060
+Buy some worthless old boat...
+
+1396
+01:43:52,602 --> 01:43:54,229
+...and fix it up new.
+
+1397
+01:43:56,981 --> 01:43:58,191
+Take my guests out...
+
+1398
+01:43:59,025 --> 01:44:00,402
+...charter fishing.
+
+1399
+01:44:04,239 --> 01:44:05,990
+Zihuatanejo.
+
+1400
+01:44:09,494 --> 01:44:13,373
+In a place like that, I could use
+a man that knows how to get things.
+
+1401
+01:44:19,921 --> 01:44:22,757
+I don't think I could make it
+on the outside, Andy.
+
+1402
+01:44:29,431 --> 01:44:31,516
+I been in here most of my life.
+
+1403
+01:44:32,934 --> 01:44:34,686
+I'm an institutional man now.
+
+1404
+01:44:35,603 --> 01:44:37,355
+Just like Brooks was.
+
+1405
+01:44:37,981 --> 01:44:40,525
+Well, you underestimate yourself.
+
+1406
+01:44:41,067 --> 01:44:42,694
+I don't think so.
+
+1407
+01:44:46,531 --> 01:44:50,452
+In here I'm the guy who can get things
+for you, sure, but...
+
+1408
+01:44:51,202 --> 01:44:53,746
+...outside all you need
+is the Yellow Pages.
+
+1409
+01:44:53,955 --> 01:44:56,207
+Hell, I wouldn't know
+where to begin.
+
+1410
+01:44:58,334 --> 01:44:59,961
+Pacific Ocean?
+
+1411
+01:45:00,378 --> 01:45:01,588
+Shit.
+
+1412
+01:45:01,963 --> 01:45:04,174
+Scare me to death, something that big.
+
+1413
+01:45:04,382 --> 01:45:05,675
+Not me.
+
+1414
+01:45:06,885 --> 01:45:09,637
+I didn't shoot my wife,
+and I didn't shoot her lover.
+
+1415
+01:45:11,389 --> 01:45:14,601
+Whatever mistakes I made,
+I've paid for them and then some.
+
+1416
+01:45:15,643 --> 01:45:17,145
+That hotel, that boat...
+
+1417
+01:45:18,897 --> 01:45:21,149
+I don't think that's too much to ask.
+
+1418
+01:45:26,070 --> 01:45:28,490
+You shouldn't be doing this to yourself.
+
+1419
+01:45:28,698 --> 01:45:30,742
+This is just shitty pipe dreams.
+
+1420
+01:45:31,159 --> 01:45:33,620
+Mexico is way down there
+and you're in here...
+
+1421
+01:45:33,828 --> 01:45:35,413
+...and that's the way it is.
+
+1422
+01:45:35,747 --> 01:45:38,583
+Yeah, right. That's the way it is.
+
+1423
+01:45:40,084 --> 01:45:42,462
+It's down there and I'm in here.
+
+1424
+01:45:45,048 --> 01:45:47,759
+I guess it comes down
+to a simple choice.
+
+1425
+01:45:50,678 --> 01:45:52,180
+Get busy living...
+
+1426
+01:45:53,556 --> 01:45:55,600
+...or get busy dying.
+
+1427
+01:45:59,229 --> 01:46:00,939
+Andy.
+
+1428
+01:46:04,025 --> 01:46:05,693
+Red?
+
+1429
+01:46:07,695 --> 01:46:10,448
+If you ever get out of here,
+do me a favor.
+
+1430
+01:46:10,615 --> 01:46:12,909
+Sure, Andy. Anything.
+
+1431
+01:46:14,786 --> 01:46:18,623
+There's a big hayfield up near Buxton.
+You know where Buxton is?
+
+1432
+01:46:20,124 --> 01:46:23,253
+-A lot of hayfields up there.
+-One in particular.
+
+1433
+01:46:23,461 --> 01:46:27,382
+It's got a long rock wall
+with a big oak tree at the north end.
+
+1434
+01:46:27,590 --> 01:46:30,468
+It's like something
+out of a Robert Frost poem.
+
+1435
+01:46:31,386 --> 01:46:33,888
+It's where I asked my wife to marry me.
+
+1436
+01:46:35,306 --> 01:46:37,392
+We went there for a picnic...
+
+1437
+01:46:37,809 --> 01:46:39,894
+...and made love under that oak...
+
+1438
+01:46:40,562 --> 01:46:42,814
+...and I asked and she said yes.
+
+1439
+01:46:46,818 --> 01:46:48,653
+Promise me, Red.
+
+1440
+01:46:49,487 --> 01:46:51,114
+If you ever get out...
+
+1441
+01:46:51,322 --> 01:46:52,824
+...find that spot.
+
+1442
+01:46:53,992 --> 01:46:58,830
+At the base of that wall, there's a rock
+that has no earthly business in Maine.
+
+1443
+01:46:59,956 --> 01:47:03,001
+Piece of black, volcanic glass.
+
+1444
+01:47:05,670 --> 01:47:08,339
+Something's buried under it
+I want you to have.
+
+1445
+01:47:09,090 --> 01:47:10,341
+What, Andy?
+
+1446
+01:47:10,758 --> 01:47:12,510
+What's buried under there?
+
+1447
+01:47:14,095 --> 01:47:15,972
+You'll have to pry it up...
+
+1448
+01:47:16,180 --> 01:47:17,432
+...to see.
+
+1449
+01:47:23,438 --> 01:47:25,273
+No, I'm telling you. The guy is...
+
+1450
+01:47:25,940 --> 01:47:27,692
+He's talking funny.
+
+1451
+01:47:28,776 --> 01:47:30,486
+I'm really worried about him.
+
+1452
+01:47:30,862 --> 01:47:32,322
+Let's keep an eye on him.
+
+1453
+01:47:32,530 --> 01:47:35,783
+That's fine during the day,
+but at night he's all alone.
+
+1454
+01:47:37,201 --> 01:47:38,369
+Oh, Lord.
+
+1455
+01:47:39,704 --> 01:47:41,289
+What?
+
+1456
+01:47:42,040 --> 01:47:44,792
+Andy come down
+to the loading dock today.
+
+1457
+01:47:45,001 --> 01:47:47,086
+He asked me for a length of rope.
+
+1458
+01:47:47,295 --> 01:47:50,006
+-Rope?
+-Six feet long.
+
+1459
+01:47:50,214 --> 01:47:51,591
+And you gave it to him.
+
+1460
+01:47:52,467 --> 01:47:54,260
+Sure I did. Why wouldn't I?
+
+1461
+01:47:54,469 --> 01:47:56,054
+Jesus! Heywood.
+
+1462
+01:47:56,638 --> 01:47:58,598
+How was I supposed to know?
+
+1463
+01:47:58,806 --> 01:48:00,391
+Remember Brooks Hatlen?
+
+1464
+01:48:00,600 --> 01:48:04,312
+No. Andy would never do that.
+
+1465
+01:48:04,896 --> 01:48:06,356
+Never.
+
+1466
+01:48:08,066 --> 01:48:09,400
+I don't know.
+
+1467
+01:48:12,236 --> 01:48:14,238
+Every man has his breaking point.
+
+1468
+01:48:16,574 --> 01:48:18,868
+Lickety-split. Want to get home.
+
+1469
+01:48:19,160 --> 01:48:20,912
+Just about finished, sir.
+
+1470
+01:48:38,054 --> 01:48:39,681
+Three deposits tonight.
+
+1471
+01:48:47,647 --> 01:48:49,565
+Get my stuff down to the laundry.
+
+1472
+01:48:49,774 --> 01:48:51,401
+And shine my shoes.
+
+1473
+01:48:51,609 --> 01:48:54,529
+-I want them looking like mirrors.
+-Yes, sir.
+
+1474
+01:49:00,034 --> 01:49:01,494
+It's good having you back, Andy.
+
+1475
+01:49:02,453 --> 01:49:04,288
+Place wasn't the same without you.
+
+1476
+01:49:51,169 --> 01:49:52,545
+Lights out!
+
+1477
+01:50:25,077 --> 01:50:27,622
+<i>I've had some long nights
+in the stir.</i>
+
+1478
+01:50:28,164 --> 01:50:30,833
+<i>Alone in the dark
+with nothing but your thoughts...</i>
+
+1479
+01:50:31,042 --> 01:50:33,711
+<i>...time can draw out like a blade.</i>
+
+1480
+01:50:39,050 --> 01:50:42,053
+<i>That was the longest night of my life.</i>
+
+1481
+01:50:57,902 --> 01:50:59,070
+Give me a count!
+
+1482
+01:51:03,574 --> 01:51:06,410
+Tier 3 south, clear!
+
+1483
+01:51:09,539 --> 01:51:12,708
+Man missing on tier 2, cell 245!
+
+1484
+01:51:12,917 --> 01:51:13,960
+Dufresne!
+
+1485
+01:51:14,502 --> 01:51:16,921
+Come out. You're holding up the show!
+
+1486
+01:51:20,091 --> 01:51:23,469
+Don't make me come down
+or I'll thump your skull for you!
+
+1487
+01:51:31,060 --> 01:51:34,897
+Damn it, you're putting me behind!
+I got a schedule to keep.
+
+1488
+01:51:35,106 --> 01:51:38,401
+You'd better be sick or dead in there.
+I shit you not!
+
+1489
+01:51:38,609 --> 01:51:39,944
+You hear me?
+
+1490
+01:51:46,033 --> 01:51:48,119
+Oh, my Holy God.
+
+1491
+01:52:05,136 --> 01:52:07,680
+I want every man
+on this cellblock questioned.
+
+1492
+01:52:08,139 --> 01:52:10,683
+-Start with that friend of his.
+-Who?
+
+1493
+01:52:10,850 --> 01:52:12,268
+Him.
+
+1494
+01:52:13,269 --> 01:52:14,812
+Open 237.
+
+1495
+01:52:18,316 --> 01:52:21,986
+What do you mean, "He just wasn't here"?
+Don't say that to me.
+
+1496
+01:52:22,862 --> 01:52:25,448
+-Don't say that to me again.
+-But, sir, he wasn't.
+
+1497
+01:52:25,656 --> 01:52:29,160
+I can see that, Haig! Think I'm blind?
+
+1498
+01:52:29,827 --> 01:52:31,412
+Is that what you're saying?
+
+1499
+01:52:31,579 --> 01:52:34,081
+-Am I blind, Haig?
+-No, sir!
+
+1500
+01:52:34,999 --> 01:52:37,501
+What about you. You blind?
+
+1501
+01:52:38,002 --> 01:52:40,338
+-Tell me what this is.
+-Last night's count.
+
+1502
+01:52:40,504 --> 01:52:44,050
+Uh-huh. You see Dufresne's name there?
+I sure do. Right there.
+
+1503
+01:52:44,258 --> 01:52:45,593
+"Dufresne."
+
+1504
+01:52:47,261 --> 01:52:50,014
+He was in his cell at lights out.
+
+1505
+01:52:50,181 --> 01:52:53,100
+Stands to reason he'd still be here
+in the morning.
+
+1506
+01:52:53,434 --> 01:52:55,061
+I want him found.
+
+1507
+01:52:55,269 --> 01:52:58,731
+Not tomorrow, not after breakfast. Now!
+
+1508
+01:52:58,981 --> 01:53:00,191
+Yes, sir.
+
+1509
+01:53:01,192 --> 01:53:04,987
+Let's go. Move your butts. Move it!
+
+1510
+01:53:06,864 --> 01:53:07,865
+Stand.
+
+1511
+01:53:09,283 --> 01:53:10,701
+Well?
+
+1512
+01:53:13,788 --> 01:53:14,830
+Well, what?
+
+1513
+01:53:14,997 --> 01:53:18,459
+I see you two all the time.
+You're thick as thieves, you are.
+
+1514
+01:53:19,543 --> 01:53:21,045
+He must have said something.
+
+1515
+01:53:21,754 --> 01:53:24,674
+No, sir, warden. Not a word.
+
+1516
+01:53:26,467 --> 01:53:29,053
+Lord, it's a miracle!
+
+1517
+01:53:29,637 --> 01:53:32,223
+Man vanished like a fart in the wind.
+
+1518
+01:53:32,890 --> 01:53:34,058
+Nothing left...
+
+1519
+01:53:34,892 --> 01:53:37,603
+...but some damn rocks
+on a windowsill.
+
+1520
+01:53:37,812 --> 01:53:40,564
+And that cupcake on the wall.
+Let's ask her.
+
+1521
+01:53:40,731 --> 01:53:42,066
+Maybe she knows.
+
+1522
+01:53:42,233 --> 01:53:45,444
+What say there, fuzzy-britches?
+Feel like talking?
+
+1523
+01:53:45,778 --> 01:53:48,239
+Oh, guess not.
+
+1524
+01:53:48,781 --> 01:53:50,992
+Why should she be any different?
+
+1525
+01:53:52,076 --> 01:53:53,744
+This is a conspiracy.
+
+1526
+01:53:54,370 --> 01:53:56,080
+That's what this is.
+
+1527
+01:53:56,789 --> 01:54:00,543
+One big, damn conspiracy!
+
+1528
+01:54:00,793 --> 01:54:02,795
+And everyone's in on it!
+
+1529
+01:54:03,421 --> 01:54:04,588
+Including her!
+
+1530
+01:54:39,623 --> 01:54:41,333
+<i>In 1966...</i>
+
+1531
+01:54:41,542 --> 01:54:43,961
+<i>...Andy Dufresne escaped...</i>
+
+1532
+01:54:44,128 --> 01:54:45,713
+<i>...from Shawshank Prison.</i>
+
+1533
+01:54:47,965 --> 01:54:50,509
+<i>All they found of him
+was a muddy set of prison clothes...</i>
+
+1534
+01:54:51,135 --> 01:54:52,678
+<i>...a bar of soap...</i>
+
+1535
+01:54:52,887 --> 01:54:54,472
+<i>...and an old rock hammer...</i>
+
+1536
+01:54:54,638 --> 01:54:57,141
+<i>...damn near worn down to the nub.</i>
+
+1537
+01:55:01,645 --> 01:55:06,400
+<i>I remember thinking it would take a man
+600 years to tunnel through the wall with it.</i>
+
+1538
+01:55:07,026 --> 01:55:09,653
+<i>Old Andy did it in less than 20.</i>
+
+1539
+01:55:27,963 --> 01:55:30,257
+<i>Oh, Andy loved geology.</i>
+
+1540
+01:55:31,008 --> 01:55:34,178
+<i>I imagine it appealed to
+his meticulous nature.</i>
+
+1541
+01:55:34,595 --> 01:55:36,430
+<i>An ice age here...</i>
+
+1542
+01:55:36,847 --> 01:55:39,350
+<i>...million years
+of mountain-building there.</i>
+
+1543
+01:55:40,351 --> 01:55:43,187
+<i>Geology is the study
+of pressure and time.</i>
+
+1544
+01:55:44,021 --> 01:55:46,023
+<i>That's all it takes, really.</i>
+
+1545
+01:55:46,774 --> 01:55:48,067
+<i>Pressure...</i>
+
+1546
+01:55:48,526 --> 01:55:50,027
+<i>...and time.</i>
+
+1547
+01:55:51,112 --> 01:55:53,197
+<i>That and a big goddamn poster.</i>
+
+1548
+01:55:56,992 --> 01:55:58,160
+<i>Like I said...</i>
+
+1549
+01:55:58,661 --> 01:56:02,665
+<i>...in prison, a man will do anything
+to keep his mind occupied.</i>
+
+1550
+01:56:05,459 --> 01:56:10,256
+<i>Seems Andy's favorite hobby was toting
+his wall out into the exercise yard...</i>
+
+1551
+01:56:10,798 --> 01:56:12,716
+<i>...a handful at a time.</i>
+
+1552
+01:56:14,051 --> 01:56:16,095
+<i>I guess after Tommy was killed...</i>
+
+1553
+01:56:16,303 --> 01:56:19,265
+<i>...Andy decided
+he'd been here just about long enough.</i>
+
+1554
+01:56:19,473 --> 01:56:22,059
+Lickety-split. Want to get home.
+
+1555
+01:56:22,768 --> 01:56:24,812
+I'm just about finished, sir.
+
+1556
+01:56:46,250 --> 01:56:48,210
+Three deposits tonight.
+
+1557
+01:56:55,509 --> 01:56:57,803
+<i>Andy did like he was told.</i>
+
+1558
+01:56:58,012 --> 01:57:01,515
+<i>Buffed those shoes
+to a high mirror-shine.</i>
+
+1559
+01:57:05,186 --> 01:57:07,479
+<i>The guards simply didn't notice.</i>
+
+1560
+01:57:07,771 --> 01:57:09,273
+<i>Neither did I.</i>
+
+1561
+01:57:09,440 --> 01:57:10,983
+<i>I mean, seriously...</i>
+
+1562
+01:57:11,192 --> 01:57:14,195
+<i>...how often do you really look
+at a man's shoes?</i>
+
+1563
+01:59:17,735 --> 01:59:20,904
+<i>Andy crawled to freedom
+through 500 yards...</i>
+
+1564
+01:59:21,155 --> 01:59:24,491
+<i>...of shit-smelling foulness
+I can't even imagine.</i>
+
+1565
+01:59:25,492 --> 01:59:27,828
+<i>Or maybe I just don't want to.</i>
+
+1566
+01:59:32,249 --> 01:59:34,585
+<i>Five hundred yards.</i>
+
+1567
+01:59:35,085 --> 01:59:38,172
+<i>That's the length
+of five football fields.</i>
+
+1568
+01:59:38,797 --> 01:59:41,383
+<i>Just shy of half a mile.</i>
+
+1569
+02:00:36,605 --> 02:00:41,193
+<i>The next morning, right about the time
+Raquel was spilling her little secret...</i>
+
+1570
+02:00:41,485 --> 02:00:44,321
+<i>...a man nobody ever
+laid eyes on before...</i>
+
+1571
+02:00:44,571 --> 02:00:47,157
+<i>...strolled into
+the Maine National Bank.</i>
+
+1572
+02:00:47,741 --> 02:00:50,911
+<i>Until that moment, he didn't exist.</i>
+
+1573
+02:00:51,495 --> 02:00:53,831
+<i>-Except on paper.</i>
+-May I help you?
+
+1574
+02:00:54,248 --> 02:00:56,166
+<i>He had all the proper ID--</i>
+
+1575
+02:00:56,375 --> 02:01:00,087
+<i>Driver's license, birth certificate,
+Social Security card--</i>
+
+1576
+02:01:00,504 --> 02:01:03,048
+<i>--and the signature
+was a spot-on match.</i>
+
+1577
+02:01:03,257 --> 02:01:06,343
+I must say I'm sorry
+to be losing your business.
+
+1578
+02:01:06,552 --> 02:01:08,303
+I hope you'll enjoy living abroad.
+
+1579
+02:01:09,096 --> 02:01:10,681
+Thank you.
+
+1580
+02:01:10,848 --> 02:01:12,015
+I'm sure I will.
+
+1581
+02:01:12,933 --> 02:01:16,270
+Here's your cashier's check, sir.
+Will there be anything else?
+
+1582
+02:01:16,478 --> 02:01:17,479
+Please.
+
+1583
+02:01:18,021 --> 02:01:20,524
+Would you add this
+to your outgoing mail?
+
+1584
+02:01:21,024 --> 02:01:22,568
+I'd be happy to.
+
+1585
+02:01:24,027 --> 02:01:25,362
+Good day, sir.
+
+1586
+02:01:26,321 --> 02:01:30,742
+<i>Mr. Stevens visited nearly
+a dozen banks in the Portland area.</i>
+
+1587
+02:01:31,201 --> 02:01:32,828
+<i>All told, he blew town...</i>
+
+1588
+02:01:33,036 --> 02:01:37,875
+<i>...with better than $370,000
+of Warden Norton's money.</i>
+
+1589
+02:01:38,542 --> 02:01:41,336
+<i>Severance pay for 19 years.</i>
+
+1590
+02:01:48,552 --> 02:01:50,762
+Good morning,
+<i>Portland Daily Bugle.</i>
+
+1591
+02:02:43,607 --> 02:02:46,568
+Byron Hadley?
+You have the right to remain silent.
+
+1592
+02:02:46,818 --> 02:02:51,281
+If you give up this right, anything you
+say can be held against you in court.
+
+1593
+02:02:51,698 --> 02:02:56,161
+<i>I wasn't there to see it, but I hear
+Byron Hadley sobbed like a little girl...</i>
+
+1594
+02:02:56,370 --> 02:02:57,871
+<i>...when they took him away.</i>
+
+1595
+02:03:03,752 --> 02:03:07,130
+<i>Norton had no intention
+of going that quietly.</i>
+
+1596
+02:03:23,105 --> 02:03:24,481
+Samuel Norton.
+
+1597
+02:03:24,648 --> 02:03:26,650
+We have a warrant for your arrest.
+Open up.
+
+1598
+02:03:30,279 --> 02:03:33,282
+Norton. Open the door.
+
+1599
+02:03:33,448 --> 02:03:34,700
+I'm not sure which key.
+
+1600
+02:03:37,494 --> 02:03:39,413
+Norton!
+
+1601
+02:03:44,835 --> 02:03:46,795
+Make it easy on yourself, Norton!
+
+1602
+02:03:58,307 --> 02:04:01,768
+<i>I like to think the last thing
+that went through his head...</i>
+
+1603
+02:04:01,977 --> 02:04:03,562
+<i>...other than that bullet...</i>
+
+1604
+02:04:03,770 --> 02:04:08,191
+<i>...was to wonder how the hell
+Andy Dufresne ever got the best of him.</i>
+
+1605
+02:04:10,694 --> 02:04:14,197
+<i>Not long after the warden
+deprived us of his company...</i>
+
+1606
+02:04:14,448 --> 02:04:16,533
+<i>...I got a postcard in the mail.</i>
+
+1607
+02:04:17,993 --> 02:04:20,829
+<i>It was blank, but the postmark said...</i>
+
+1608
+02:04:21,038 --> 02:04:23,165
+<i>...Fort Hancock, Texas.</i>
+
+1609
+02:04:23,707 --> 02:04:25,042
+<i>Fort Hancock...</i>
+
+1610
+02:04:25,334 --> 02:04:27,044
+<i>...right on the border.</i>
+
+1611
+02:04:27,461 --> 02:04:29,463
+<i>That's where Andy crossed.</i>
+
+1612
+02:04:30,047 --> 02:04:34,176
+<i>When I picture him heading south
+in his own car with the top down...</i>
+
+1613
+02:04:34,509 --> 02:04:36,720
+<i>...it always makes me laugh.</i>
+
+1614
+02:04:38,555 --> 02:04:40,140
+<i>Andy Dufresne...</i>
+
+1615
+02:04:40,515 --> 02:04:42,559
+<i>...who crawled through
+a river of shit...</i>
+
+1616
+02:04:42,726 --> 02:04:45,145
+<i>...and came out clean
+on the other side.</i>
+
+1617
+02:04:45,979 --> 02:04:47,356
+<i>Andy Dufresne...</i>
+
+1618
+02:04:48,148 --> 02:04:49,733
+<i>...headed for the Pacific.</i>
+
+1619
+02:04:52,736 --> 02:04:54,905
+Hadley's got him
+by the throat, right?
+
+1620
+02:04:55,072 --> 02:04:58,909
+He says, "I believe this boy's
+about to have himself an accident."
+
+1621
+02:04:59,076 --> 02:05:01,953
+<i>Those of us who knew him best
+talk about him often.</i>
+
+1622
+02:05:02,621 --> 02:05:04,331
+<i>I swear, the stuff he pulled...</i>
+
+1623
+02:05:04,539 --> 02:05:07,501
+"My friends could use a couple of beers."
+
+1624
+02:05:07,834 --> 02:05:09,503
+And he got it!
+
+1625
+02:05:10,754 --> 02:05:13,131
+<i>Sometimes it makes me sad,
+though...</i>
+
+1626
+02:05:13,423 --> 02:05:14,841
+<i>...Andy being gone.</i>
+
+1627
+02:05:15,550 --> 02:05:19,680
+<i>I have to remind myself that
+some birds aren't meant to be caged.</i>
+
+1628
+02:05:20,138 --> 02:05:22,224
+<i>Their feathers are just too bright.</i>
+
+1629
+02:05:23,934 --> 02:05:25,644
+<i>And when they fly away...</i>
+
+1630
+02:05:26,103 --> 02:05:30,482
+<i>...the part of you that knows it was
+a sin to lock them up does rejoice.</i>
+
+1631
+02:05:31,566 --> 02:05:32,818
+<i>But still...</i>
+
+1632
+02:05:33,276 --> 02:05:37,614
+<i>...the place you live in is that much
+more drab and empty that they're gone.</i>
+
+1633
+02:05:41,827 --> 02:05:44,204
+<i>I guess I just miss my friend.</i>
+
+1634
+02:06:08,645 --> 02:06:09,813
+Please sit down.
+
+1635
+02:06:15,652 --> 02:06:17,237
+Ellis Boyd Redding...
+
+1636
+02:06:17,779 --> 02:06:21,032
+...your files say you've served
+40 years of a life sentence.
+
+1637
+02:06:21,825 --> 02:06:23,994
+You feel you've been rehabilitated?
+
+1638
+02:06:25,829 --> 02:06:27,414
+Rehabilitated?
+
+1639
+02:06:29,458 --> 02:06:31,334
+Well, now, let me see.
+
+1640
+02:06:32,335 --> 02:06:34,671
+I don't have any idea what that means.
+
+1641
+02:06:36,798 --> 02:06:39,050
+It means you're ready
+to rejoin society--
+
+1642
+02:06:39,634 --> 02:06:41,970
+I know what you think it means, sonny.
+
+1643
+02:06:44,139 --> 02:06:46,141
+To me it's just a made-up word.
+
+1644
+02:06:47,476 --> 02:06:49,811
+A politician's word so that...
+
+1645
+02:06:50,228 --> 02:06:53,774
+...young fellas like yourself
+can wear a suit and a tie...
+
+1646
+02:06:54,232 --> 02:06:55,859
+...and have a job.
+
+1647
+02:06:57,819 --> 02:06:59,905
+What do you really want to know?
+
+1648
+02:07:00,697 --> 02:07:02,657
+Am I sorry for what I did?
+
+1649
+02:07:03,074 --> 02:07:04,367
+Well, are you?
+
+1650
+02:07:06,161 --> 02:07:08,997
+There's not a day goes by
+I don't feel regret.
+
+1651
+02:07:10,373 --> 02:07:13,835
+Not because I'm in here
+or because you think I should.
+
+1652
+02:07:17,297 --> 02:07:19,883
+I look back on the way I was then...
+
+1653
+02:07:22,010 --> 02:07:23,345
+...a young...
+
+1654
+02:07:24,262 --> 02:07:27,766
+...stupid kid who committed
+that terrible crime.
+
+1655
+02:07:30,769 --> 02:07:32,479
+I want to talk to him.
+
+1656
+02:07:34,397 --> 02:07:36,900
+I want to try
+and talk some sense to him.
+
+1657
+02:07:37,609 --> 02:07:39,569
+Tell him the way things are.
+
+1658
+02:07:41,655 --> 02:07:43,073
+But I can't.
+
+1659
+02:07:45,283 --> 02:07:47,285
+That kid's long gone...
+
+1660
+02:07:48,495 --> 02:07:51,248
+...and this old man is all that's left.
+
+1661
+02:07:52,666 --> 02:07:54,125
+I got to live with that.
+
+1662
+02:07:55,502 --> 02:07:57,212
+Rehabilitated?
+
+1663
+02:07:57,587 --> 02:07:59,422
+It's just a bullshit word.
+
+1664
+02:08:00,340 --> 02:08:05,095
+So you go on and stamp your forms,
+sonny, and stop wasting my time.
+
+1665
+02:08:06,346 --> 02:08:08,598
+Because to tell you the truth...
+
+1666
+02:08:08,932 --> 02:08:10,934
+...I don't give a shit.
+
+1667
+02:09:37,479 --> 02:09:38,855
+Here you go, miss.
+
+1668
+02:09:41,816 --> 02:09:42,859
+Restroom break, boss?
+
+1669
+02:09:48,657 --> 02:09:53,203
+You don't need to ask me every time you
+need to go take a piss. Just go. Understand?
+
+1670
+02:09:54,204 --> 02:09:55,830
+Yes, sir.
+
+1671
+02:10:06,216 --> 02:10:09,302
+<i>Forty years I've been asking
+permission to piss.</i>
+
+1672
+02:10:10,136 --> 02:10:13,139
+<i>I can't squeeze a drop without say-so.</i>
+
+1673
+02:10:16,643 --> 02:10:18,812
+<i>There's a harsh truth to face.</i>
+
+1674
+02:10:20,480 --> 02:10:23,400
+<i>No way I'm going to make it
+on the outside.</i>
+
+1675
+02:10:31,241 --> 02:10:34,953
+<i>All I do anymore is think of ways
+to break my parole...</i>
+
+1676
+02:10:35,745 --> 02:10:38,248
+<i>...so maybe they'd send me back.</i>
+
+1677
+02:10:43,420 --> 02:10:45,880
+<i>Terrible thing, to live in fear.</i>
+
+1678
+02:10:46,756 --> 02:10:48,425
+<i>Brooks Hatlen knew it.</i>
+
+1679
+02:10:48,633 --> 02:10:50,593
+<i>Knew it all too well.</i>
+
+1680
+02:10:52,178 --> 02:10:55,598
+<i>All I want is to be back
+where things make sense.</i>
+
+1681
+02:10:56,016 --> 02:10:58,768
+<i>Where I won't have to be afraid
+all the time.</i>
+
+1682
+02:11:00,770 --> 02:11:03,106
+<i>Only one thing stops me.</i>
+
+1683
+02:11:04,566 --> 02:11:06,943
+<i>A promise I made to Andy.</i>
+
+1684
+02:11:27,464 --> 02:11:28,798
+There it is.
+
+1685
+02:11:39,225 --> 02:11:40,894
+Much obliged, sir.
+
+1686
+02:15:20,196 --> 02:15:21,489
+<i>Dear Red:</i>
+
+1687
+02:15:21,698 --> 02:15:24,200
+<i>If you're reading this,
+you've gotten out...</i>
+
+1688
+02:15:24,367 --> 02:15:28,538
+<i>...and if you've come this far,
+maybe you're willing to come a little further.</i>
+
+1689
+02:15:28,705 --> 02:15:31,207
+<i>You remember the name
+of the town, don't you?</i>
+
+1690
+02:15:33,501 --> 02:15:35,003
+Zihuatanejo.
+
+1691
+02:15:36,629 --> 02:15:40,216
+<i>I could use a good man
+to help me get my project on wheels.</i>
+
+1692
+02:15:40,717 --> 02:15:44,262
+<i>I'll keep an eye out for you,
+and the chessboard ready.</i>
+
+1693
+02:15:45,054 --> 02:15:46,472
+<i>Remember, Red...</i>
+
+1694
+02:15:46,806 --> 02:15:48,891
+<i>...hope is a good thing...</i>
+
+1695
+02:15:49,100 --> 02:15:51,102
+<i>...maybe the best of things.</i>
+
+1696
+02:15:51,311 --> 02:15:53,479
+<i>And no good thing ever dies.</i>
+
+1697
+02:15:54,022 --> 02:15:56,899
+<i>I will be hoping
+that this letter finds you...</i>
+
+1698
+02:15:57,066 --> 02:15:58,818
+<i>...and finds you well.</i>
+
+1699
+02:15:59,319 --> 02:16:00,570
+<i>Your friend...</i>
+
+1700
+02:16:00,737 --> 02:16:01,904
+<i>...Andy.</i>
+
+1701
+02:16:35,772 --> 02:16:37,482
+<i>"Get busy living...</i>
+
+1702
+02:16:37,690 --> 02:16:39,609
+<i>...or get busy dying."</i>
+
+1703
+02:16:42,278 --> 02:16:44,447
+<i>That's goddamn right.</i>
+
+1704
+02:16:49,702 --> 02:16:51,829
+<i>For the second time in my life...</i>
+
+1705
+02:16:52,080 --> 02:16:54,624
+<i>...I'm guilty of committing a crime.</i>
+
+1706
+02:16:55,708 --> 02:16:57,627
+<i>Parole violation.</i>
+
+1707
+02:16:58,294 --> 02:17:01,964
+<i>Of course, I doubt they'll toss up
+any roadblocks for that.</i>
+
+1708
+02:17:02,632 --> 02:17:04,675
+<i>Not for an old crook like me.</i>
+
+1709
+02:17:04,884 --> 02:17:06,928
+Fort Hancock, Texas, please.
+
+1710
+02:17:10,598 --> 02:17:15,311
+<i>I find I'm so excited I can barely
+sit still or hold a thought in my head.</i>
+
+1711
+02:17:15,770 --> 02:17:19,107
+<i>I think it's the excitement
+only a free man can feel.</i>
+
+1712
+02:17:19,315 --> 02:17:21,818
+<i>A free man at the start
+of a long journey...</i>
+
+1713
+02:17:21,984 --> 02:17:24,612
+<i>...whose conclusion is uncertain.</i>
+
+1714
+02:17:27,615 --> 02:17:30,284
+<i>I hope I can make it across the border.</i>
+
+1715
+02:17:31,786 --> 02:17:34,831
+<i>I hope to see my friend
+and shake his hand.</i>
+
+1716
+02:17:36,666 --> 02:17:40,753
+<i>I hope the Pacific is as blue
+as it has been in my dreams.</i>
+
+1717
+02:17:42,588 --> 02:17:43,798
+<i>I hope.</i>
+
+1718
+02:22:21,769 --> 02:22:23,770
+English
+

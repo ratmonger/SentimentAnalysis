@@ -5,6 +5,7 @@ from scipy.special import softmax
 # BEFORE YOU RUN THIS CODE
 # You need to install this on your machine terminal
 # pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# DOCUMENTATION: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
 
 # Movie: The ShankShaw Redemption
 # Review Link: https://www.imdb.com/title/tt0111161/reviews?sort=curated&dir=asc&ratingFilter=0

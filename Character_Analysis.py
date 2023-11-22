@@ -2,7 +2,7 @@ import pandas as pd
 import RobertaModel_GPU as RMGPU
 
 # Configuration Variables
-MAX_REVIEWS = 500
+MAX_REVIEWS = 10
 file_path = 'ShawShank_CreatedFiles/movie_reviews_2000.csv'
 
 # Top 5 Characters in your movie
