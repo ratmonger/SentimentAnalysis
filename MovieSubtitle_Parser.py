@@ -1,8 +1,8 @@
-import re
 import pandas as pd
 from bs4 import BeautifulSoup
 import RobertaModel as RB
 import matplotlib.pyplot as plt
+import numpy as np
 
 def parse_subtitle(subtitle_text, max_characters_per_block=250):
     lines = subtitle_text.split('\n')
@@ -66,8 +66,7 @@ for i, review in result_df.iterrows():
     tuples.append([review["Subtitle Block"], RB.analyze_sentiment(review["Subtitle Block"])])
     print(tuples[i])
 
-import matplotlib.pyplot as plt
-import numpy as np
+
 
 # Assuming `tuples` contains your data as shown in your code
 # Extract sentiment scores
