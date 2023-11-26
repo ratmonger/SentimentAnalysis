@@ -14,7 +14,8 @@ emotion_labels = [
 emotion_dict = {emotion: [] for emotion in emotion_labels}
 
 # Path to the CSV file
-file_path = 'subLines_and_emotions.csv'
+# file_path = 'subLines_and_emotions.csv'
+file_path = 'Shrek1_subLines_and_emotions.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(file_path)

@@ -4,8 +4,8 @@ import pandas as pd
 
 # senti = rbGO.emotion_analysis("I hate this movie, it sucks!")
 # print(senti)
-df = (msp.MovSubGetter('../ShawShank_CreatedFiles/The.Shawshank.Redemption_subtitles.srt'))
-
+# df = (msp.MovSubGetter('../ShawShank_CreatedFiles/The.Shawshank.Redemption_subtitles.srt'))
+df = msp.MovSubGetter('../Movie_Time_Sent/Shrek1_subtitles.srt')
 df['label'] = [i for i in range(1, len(df) + 1)]
 df['score'] = [i for i in range(1, len(df) + 1)]
 
@@ -47,13 +47,13 @@ for i in range(len(df)):
 # print(df)
 # print(emotion_dict['neutral'])
 
-# if not df.empty:
-#     # Specify the file path where you want to save the CSV file
-#     csv_file_path = "subLines_and_emotions.csv"
-#
-#     # Save the DataFrame to a CSV file
-#     df.to_csv(csv_file_path, index=False)
-#
-#     print(f"CSV file saved to {csv_file_path}")
-# else:
-#     print("No reviews to save or an error occurred during scraping.")
+if not df.empty:
+    # Specify the file path where you want to save the CSV file
+    csv_file_path = "Shrek1_subLines_and_emotions.csv"
+
+    # Save the DataFrame to a CSV file
+    df.to_csv(csv_file_path, index=False)
+
+    print(f"CSV file saved to {csv_file_path}")
+else:
+    print("No reviews to save or an error occurred during scraping.")
