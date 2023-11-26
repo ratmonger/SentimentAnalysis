@@ -51,39 +51,60 @@ from transformers import pipeline
 classifier = pipeline(task="text-classification", model="SamLowe/roberta-base-go_emotions", top_k=None)
 
 # List of sentences you want to analyze for sentiment
-sentences = ["I am not having a great day", "I'm so excited!"]
+# sentences = ["I am not having a great day", "I'm so excited!"]
 
 # Get sentiment analysis results for each sentence
-model_outputs = classifier(sentences)
+# model_outputs = classifier(sentences)
 
+'''
+    This function takes in your sentence and returns it's emotion analysis 
+'''
+def emotion_analysis(text):
+    sentence = text
+    return classifier(sentence)
+
+# print(emotion_analysis("this is horrible"))
 # Access the sentiment scores for each emotion in the output
 # for output in model_outputs:
 #     print(output)
-print(model_outputs)
+# print(model_outputs)
+#
+# sentences = ["Today is the best day ever!"]
+# model_outputs = classifier(sentences)
+#
+# print(model_outputs)
+# # Loop through each sentiment in the list
+# for sentiment in model_outputs[0]:
+#     label = sentiment['label']
+#     score = sentiment['score']
+#
+#     # Print each sentiment and its score
+#     print(f"Sentiment: {label}, Score: {score}")
 
-import matplotlib.pyplot as plt
-
-# Time range from 1 to 30
-time = list(range(1, 31))
-
-# Sentiment scores for selected emotions (you can customize this)
-emotions = ['disappointment', 'sadness', 'excitement']
-scores = {
-    'disappointment': [0.1, 0.15, 0.2, 0.18, 0.12, 0.11, 0.1, 0.09, 0.08, 0.1, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.18, 0.19, 0.2, 0.22, 0.23, 0.25, 0.28, 0.3, 0.31, 0.32, 0.34, 0.36, 0.38, 0.4],
-    'sadness': [0.2, 0.18, 0.15, 0.12, 0.11, 0.1, 0.09, 0.08, 0.1, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.18, 0.19, 0.2, 0.22, 0.23, 0.25, 0.28, 0.3, 0.31, 0.32, 0.34, 0.36, 0.38, 0.4, 0.45],
-    'excitement': [0.05, 0.08, 0.12, 0.16, 0.2, 0.25, 0.28, 0.3, 0.32, 0.34, 0.36, 0.38, 0.4, 0.42, 0.44, 0.45, 0.46, 0.47, 0.48, 0.49, 0.5, 0.51, 0.52, 0.53, 0.54, 0.55, 0.56, 0.57, 0.58, 0.6]
-}
-
-# Create a line chart for each emotion
-plt.figure(figsize=(12, 6))
-for emotion in emotions:
-    plt.plot(time, scores[emotion], label=emotion)
-
-plt.xlabel('Time')
-plt.ylabel('Sentiment Score')
-plt.title('Sentiment Analysis Over Time')
-plt.legend()
-plt.grid(True)
-
-# Show the plot
-plt.show()
+#
+# import matplotlib.pyplot as plt
+#
+# # Time range from 1 to 30
+# time = list(range(1, 31))
+#
+# # Sentiment scores for selected emotions (you can customize this)
+# emotions = ['disappointment', 'sadness', 'excitement']
+# scores = {
+#     'disappointment': [0.1, 0.15, 0.2, 0.18, 0.12, 0.11, 0.1, 0.09, 0.08, 0.1, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.18, 0.19, 0.2, 0.22, 0.23, 0.25, 0.28, 0.3, 0.31, 0.32, 0.34, 0.36, 0.38, 0.4],
+#     'sadness': [0.2, 0.18, 0.15, 0.12, 0.11, 0.1, 0.09, 0.08, 0.1, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.18, 0.19, 0.2, 0.22, 0.23, 0.25, 0.28, 0.3, 0.31, 0.32, 0.34, 0.36, 0.38, 0.4, 0.45],
+#     'excitement': [0.05, 0.08, 0.12, 0.16, 0.2, 0.25, 0.28, 0.3, 0.32, 0.34, 0.36, 0.38, 0.4, 0.42, 0.44, 0.45, 0.46, 0.47, 0.48, 0.49, 0.5, 0.51, 0.52, 0.53, 0.54, 0.55, 0.56, 0.57, 0.58, 0.6]
+# }
+#
+# # Create a line chart for each emotion
+# plt.figure(figsize=(12, 6))
+# for emotion in emotions:
+#     plt.plot(time, scores[emotion], label=emotion)
+#
+# plt.xlabel('Time')
+# plt.ylabel('Sentiment Score')
+# plt.title('Sentiment Analysis Over Time')
+# plt.legend()
+# plt.grid(True)
+#
+# # Show the plot
+# plt.show()

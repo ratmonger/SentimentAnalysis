@@ -6,7 +6,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from tqdm import tqdm  # Import tqdm for the progress bar
-
 # IMDb movie review URL
 url = "https://www.imdb.com/title/tt0111161/reviews"
 # Prolific Reviewers
